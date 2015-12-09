@@ -1,0 +1,8 @@
+2015-12-09 09:48:29: -- Analysis Started by Analyze And Sync This
+2015-12-09 09:48:41: Veranderingen: 2, Conflicten: 0, Kopieertijd: 0, Kopieerstatus: 0/0, Fouten: 0, All: 2001
+2015-12-09 09:48:41: Left to Right: Copy File: 1 Delete File: 1 
+2015-12-09 09:48:41: == Sync Started by Analyze And Sync This
+2015-12-09 09:48:41: Verwijder Bestand 'ftp://ftp.eduk.nl/public_html/medisom.nl/wp-content/plugins/medisom-extra/sm/wp_test.php'
+2015-12-09 09:48:42: Kopieer Over 'F:/medisom_site/wp-content/plugins/medisom-extra/sm/wp_stats.php' -> 'ftp://ftp.eduk.nl/public_html/medisom.nl/wp-content/plugins/medisom-extra/sm/wp_stats.php'
+2015-12-09 09:48:47: == Sync Complete. Time: 00:00:06, Speed: 46,6 kB/s, Items gesynchroniseerd OK: 2, fouten: 0
+2015-12-09 09:48:47: 
