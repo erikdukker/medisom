@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/_gsdata_/_saved_/wp-content/plugins/updraftplus/oc/aws" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/updraftplus/oc/aws" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_gsdata_/_saved_/wp-content/plugins/updraftplus/oc/guzzle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_gsdata_/_saved_/wp-content/plugins/updraftplus/oc/guzzle/stream" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/updraftplus/oc/guzzle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/updraftplus/oc/guzzle/stream" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_gsdata_/_saved_/wp-content/plugins/updraftplus/oc/guzzle/common" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/updraftplus/oc/guzzle/common" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_gsdata_/_saved_/wp-content/plugins/updraftplus/oc/guzzle/http" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/updraftplus/oc/guzzle/http" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_gsdata_/_saved_/wp-content/plugins/updraftplus/oc/guzzle/parser" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/updraftplus/oc/guzzle/parser" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_gsdata_/_saved_/wp-content/plugins/updraftplus/oc/rs/lb2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/updraftplus/oc/rs/lb2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_gsdata_/_saved_/wp-content/plugins/wordpress-seo/vendor/xrstf/composer-php52/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/upgrade/wordpress-seo.3.0.4/wordpress-seo/vendor/xrstf/composer-php52/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_gsdata_/_saved_/wp-content/plugins/updraftplus/oc/psr/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/updraftplus/oc/psr/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_gsdata_/_saved_/wp-content/plugins/updraftplus/oc/symed" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/updraftplus/oc/symed" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

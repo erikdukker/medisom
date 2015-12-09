@@ -1,0 +1,41 @@
+0000.005 () Opened log file at time: Tue, 15 Sep 2015 13:23:12 +0000 on http://medisom.nl
+0000.005 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.9 WP: 4.3 PHP: 5.6.12 (Linux www61.totaalholding.nl 2.6.32-604.16.2.lve1.3.54.el6.x86_64 #1 SMP Mon Jul 27 11:32:29 EDT 2015 x86_64) MySQL: 5.6.23 Server: Apache/2.4.16 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 15.8M | 17.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.005 () Free space on disk containing Updraft's temporary directory: 1191376.2 Mb
+0000.005 () Restore job started. Entities to restore: db
+0000.030 () Entity: db
+0000.030 () restore_backup(backup_file=backup_2015-09-08-1854_medisom_fd528e2efec1-db.gz, type=db, info=a:0:{}, last_one=1)
+0000.030 () Backup uitpakken...
+0000.035 () Database successfully unpacked
+0000.036 () De database wordt teruggezet (op een grote site kan dit lang duren). Als er een timeout optreedt, wat kan gebeuren als de hostingprovider het aantal serverbronnen beperkt heeft, dien je een andere manier te gebruiken, bijvoorbeeld mbv phpMyAdmin...
+0000.036 () Using direct MySQL access; value of use_mysqli is: 1
+0000.037 () Max packet size: 1024 Mb
+0000.037 () Entering maintenance mode
+0000.037 () Onderhoudsmode activeren&#8230;
+0000.043 () Backup created by: 1.11.9
+0000.043 () <strong>Backup of:</strong> http://medisom.nl
+0000.044 () Content URL: http://medisom.nl/wp-content
+0000.044 () Old table prefix: m_
+0000.045 () Site information: multisite=0
+0000.047 () New table prefix: m_
+0000.049 () Restoring table (MyISAM): m_options
+0000.304 () Restoring prior UD configuration (table: m_options; keys: 2)
+0000.319 () Restoring table (MyISAM): m_users
+0000.364 () Restoring table (MyISAM): m_usermeta
+0000.416 () Restoring table (MyISAM): m_commentmeta
+0000.446 () Restoring table (MyISAM): m_comments
+0000.508 () Restoring table (MyISAM): m_links
+0000.579 () Restoring table (MyISAM): m_postmeta
+0000.720 () Restoring table (MyISAM): m_posts
+0000.787 () Restoring table (MyISAM): m_term_relationships
+0000.845 () Restoring table (MyISAM): m_term_taxonomy
+0000.900 () Restoring table (MyISAM): m_terms
+0000.972 () Restoring table (MyISAM): m_itsec_lockouts
+0001.229 () Restoring table (MyISAM): m_itsec_log
+0001.270 () Restoring table (MyISAM): m_itsec_temp
+0001.307 () Restoring table (MyISAM): m_layerslider
+0001.353 () Leaving maintenance mode
+0001.353 () Onderhoudsmode deactiveren&#8230;
+0001.353 () Finished: lines processed: 49 in 1.32 seconds
+0001.354 () Rommel opruimen...
+0001.372 () Restore successful!
+0001.372 () Restore successful

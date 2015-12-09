@@ -1,0 +1,14 @@
+.main_color tr:nth-child(odd), .main_color .pricing-table>li:nth-child(odd), .main_color .pricing-extra { background: #f8f8f8;}
+input[type="text"] { margin-bottom:5px; padding:4px;}
+.lwa { margin:0px; padding:0px; }
+form.lwa-form, form.lwa-remember, div.lwa-register form { position:relative; }
+.lwa table { width:100% !important; margin:0px !important; border:none !important; border-spacing:0; border-collapse:collapse; }
+.lwa td,.lwa th { padding:0; border-spacing:0; border:none !important; } 
+.lwa td { padding-top:0px; vertical-align:top; }
+/*Logged out CSS*/
+.lwa .lwa-username-label, .lwa .lwa-password-label { padding-right:10px; vertical-align:middle; }
+.lwa-password input, .lwa-username input, .lwa-email input, .lwa-remember-email input { margin:0px; height:40px; width:96%; padding-left:2%; padding-right:2%; }
+/*Logged In CSS*/
+.lwa-avatar { width:0px; padding-right:0px; }
+/*Registration*/
+.lwa .lwa-register { margin-top:10px; display:none; }

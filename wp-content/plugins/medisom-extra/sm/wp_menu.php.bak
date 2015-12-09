@@ -1,0 +1,156 @@
+<style>
+.content {  padding-top: 20px; padding-bottom: 20px;}
+.menu_title { margin-bottom: 8px; font-size: 17px; line-height: 1.1em; font-weight: 600; }
+.nd{display:none;} 
+a.bust {
+   -webkit-appearance: button;
+   -moz-appearance: button;
+   appearance: button;
+	padding:4px; margin-right:3px; font-size:14px; width:100%; background:rgba(0, 0, 0, 0.03); 
+	border-radius:2px; -webkit-border-radius:2px; -moz-border-radius:2px; 
+	text-decoration:none !important ; font-weight:normal;
+	position: relative; margin-bottom: 6px; border:0px dotted #EEE; text-align:center;
+}
+a.bust.inst { text-align:left;padding-left: 7px;background:rgba(0, 0, 255, 0.06)}
+</style>
+<script>
+function ztni(fl) {
+	document.getElementById('bu').style.color  = '#000000';
+	document.getElementById('bi').style.color  = '#000000';
+	document.getElementById('bo').style.color  = '#000000';
+	document.getElementById('bk').style.color  = '#000000';
+	document.getElementById('bl').style.color  = '#000000';
+	document.getElementById('bt').style.color  = '#000000';
+	document.getElementById('ba').style.color  = '#000000';
+	document.getElementById('bu').style.background = '#ccccff';
+	document.getElementById('bi').style.background = '#ccccff';
+	document.getElementById('bo').style.background = '#ccccff';
+	document.getElementById('bk').style.background = '#ccccff';
+	document.getElementById('bl').style.background = '#ccccff';
+	document.getElementById('bt').style.background = '#ccccff';
+	document.getElementById('ba').style.background = '#ccccff';
+	ses =  {}
+	if (fl == 'u') { 																	// uitleg
+		document.getElementById('bu'.toString()).style.color  = "#1547E5";
+		document.getElementById('bu'.toString()).style.background = '#ffffff';
+	} else if (fl == 'i') { 															// oefenen
+		document.getElementById('bi'.toString()).style.color  = "#1547E5";
+		document.getElementById('bi'.toString()).style.background = '#ffffff';
+	} else if (fl == 'o') { 															// oefenen
+		document.getElementById('bo'.toString()).style.color  = "#1547E5";
+		document.getElementById('bo'.toString()).style.background = '#ffffff';
+	} else if (fl == 'k') { 															// korter
+		document.getElementById('bk'.toString()).style.color  = "#1547E5";
+		document.getElementById('bk'.toString()).style.background = '#ffffff';
+	} else if (fl == 'l') { 															// langer
+		document.getElementById('bl'.toString()).style.color  = "#1547E5";				
+		document.getElementById('bl'.toString()).style.background = '#ffffff';				
+	} else if (fl == 't') { 															// toets
+		document.getElementById('bt'.toString()).style.color  = "#1547E5";
+		document.getElementById('bt'.toString()).style.background = '#ffffff';
+	} else if (fl == 'a') { 															// afmaken
+		document.getElementById('ba'.toString()).style.color  = "#1547E5";
+		document.getElementById('ba'.toString()).style.background = '#ffffff';
+	}
+	ses.kz = fl
+	param = 'sesjs='+JSON.stringify(ses);
+	if (window.XMLHttpRequest) {
+		xmlhttp 		= new XMLHttpRequest()									// code for IE7+, Firefox, Chrome, Opera, Safari
+	} else {
+		xmlhttp 		= new ActiveXObject("Microsoft.XMLHTTP");				// code for IE6, IE5
+	}
+	xmlhttp.onreadystatechange = function() {
+		if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+//			document.getElementById("som").innerHTML = xmlhttp.responseText;
+//			alert(xmlhttp.responseText);
+		}
+	}
+	xmlhttp.open('POST','../wp-content/plugins/medisom-extra/sm/ua_ses.php',true); 
+	xmlhttp.setRequestHeader('Content-type','application/x-www-form-urlencoded'); 	
+	xmlhttp.send(param);
+}
+</script>
+<?																						// aanloggen op db
+global $wpdb;
+include 'class_sessie.php';
+echo '<div>'.PHP_EOL;
+$ses->tr_log('module >>>> wp_menu menu');
+$rsra = $wpdb->get_results("SELECT * FROM m_sy where sytp = 'ra'");
+foreach ( $rsra as $rwra ) {
+	$rads[$rwra->syid] = $rwra->syds;
+//	echo $rwra->syid.' '.$rwra->syds,'<br>';
+}
+if (isset($_GET['r'])) {
+	$ses->syra		=  $_GET['r'];														// verder met oefening
+} else {
+	$ses->syra		=  '';																// verder met oefening
+}
+echo '<div style="display: inline-block; margin-right: 20px;vertical-align: text-top;">'.PHP_EOL;
+echo '<span class="menu_title" style="color:#1547E5">wat</span>'.PHP_EOL;
+echo '<br><a href="http://medisom.nl/uitleg/" class="bust inst" id="bu" style="color:#000000"  onclick="ztni(\'o\')">uitleg</a>'.PHP_EOL;
+echo '<br><a href="#" class="bust inst" id="bi" style="color:#000000"  onclick="ztni(\'i\')">info</a>'.PHP_EOL;
+echo '<br><a href="#" class="bust inst" id="bo" style="color:#000000"  onclick="ztni(\'o\')">oefenen</a>'.PHP_EOL;
+echo '<br><a href="#" class="bust inst" id="bk" style="color:#000000"  onclick="ztni(\'k\')">.. korter</a>'.PHP_EOL;
+echo '<br><a href="#" class="bust inst" id="bl" style="color:#000000"  onclick="ztni(\'l\')">.. langer</a>'.PHP_EOL;
+echo '<br><a href="#" class="bust inst" id="bt" style="color:#000000"  onclick="ztni(\'t\')">toetsen</a>'.PHP_EOL;
+echo '<br><a href="http://medisom.nl/som/?a=laatste" class="bust inst" id="ba" style="color:#000000"  onclick="ztni(\'o\')">afmaken</a>'.PHP_EOL;
+echo "</div>".PHP_EOL;
+
+$prev_ra	= '';
+$div_open	= false;
+$rsco = $wpdb->get_results("SELECT * FROM m_sy where sytp = 'co' and syra like '$ses->syra%' order by syra");
+foreach ( $rsco as $rwco ) {
+	if (substr($rwco->syra,0,2) != substr($prev_ra,0,2) and								// level break
+		substr($rwco->syra,0,2) != substr($ses->syra,0,2)		) {						// niet instap level
+		echo '<span class="menu_title">'.$rads[substr($rwco->syra,0,2)].'</span>'.PHP_EOL;
+	}
+	if (strlen($rwco->syra) > 2) {
+		if (substr($rwco->syra,0,4) != substr($prev_ra,0,4) and							// level break
+			substr($rwco->syra,0,4) != substr($ses->syra,0,4)		) {					// niet instap level
+			if ($div_open) { echo '</div>'.PHP_EOL; } else { $div_open	= true;}
+			echo '<div style="display: inline-block; margin-right: 20px;vertical-align: text-top;">'.PHP_EOL;
+			echo '<span class="menu_title">'.$rads[substr($rwco->syra,0,4)].'</span>'.PHP_EOL;
+		}
+	}
+	if (strlen($rwco->syra) > 4) {
+		if (substr($rwco->syra,0,6) != substr($prev_ra,0,6) and							// level break
+			substr($rwco->syra,0,6) != substr($ses->syra,0,6)		) {					// niet instap level
+			echo '<br><b>'.$rads[substr($rwco->syra,0,6)].'</b>';
+		}
+	}
+	// berekenen score laatste oefening
+	$ok			= 0;
+	$no 		= 0;
+	$score		= "";
+	$scorevk		= "";
+	$rsoe 		= $wpdb->get_results($wpdb->prepare("SELECT * FROM m_oe where coid = %s and seid = %s",$rwco->syid,$ses->seid));
+	foreach ( $rsoe as $rwoe ) {
+		$ok		= 0;
+		$no 	= 0;
+		$oepa 	= json_decode($rwoe->oepa);
+		foreach ($oepa as $par => $val) { 
+			if (substr($par,0,2) == 'ok'){$ok = $ok + $val;}
+			if (substr($par,0,2) == 'no'){$no = $no + $val;}
+		}
+	}
+	$to			=  $ok + $no;
+	if ($to > 5) {
+		$sc		= ($ok * 10)/ $to;
+		if ($sc < 5) { $cl = 'rgba(240,0,0,0.7)';}
+		elseif ($sc < 8) { $cl = 'rgba(255,255,0,0.5)';}
+		else { $cl = 'rgba(0,255,0,0.6)';}
+	//	$score	= "(".round($sc).')';
+		$scorevk	= " style='background:".$cl."'";
+	}
+	$prev_ra 	= $rwco->syra;
+	$dss		= str_getcsv($rwco->syds,'|}');
+	if (isset($dss[1])) { $tit ='title="'.$dss[1].'"';} else { $tit ='';}
+	echo '<br><a href="http://medisom.nl/som/?c='.$rwco->syid.'" class="bust" '.$scorevk.' >'.PHP_EOL;
+	echo '<span '.$tit.'>'.$dss[0].' '.$score.'</span></a>'.PHP_EOL;
+//	if ( $ses->seid == 'mad') {
+
+}
+echo "</div></div>".PHP_EOL;
+echo '<script>ztni("'.$ses->kz.'")</script>';
+?> 
+</div>

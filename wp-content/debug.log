@@ -1,0 +1,21 @@
+[07-Dec-2015 20:42:01 UTC] PHP Notice:  Undefined offset: 0 in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/only-tweet-like-share-and-google-1/tweet-like-plusone.php on line 228
+[07-Dec-2015 20:42:02 UTC] PHP Warning:  Creating default object from empty value in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/medisom-extra/sm/wp_som.php on line 164
+[07-Dec-2015 20:42:26 UTC] PHP Notice:  Undefined property: sessie::$mode in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/medisom-extra/sm/ua_pro.php on line 83
+[07-Dec-2015 20:42:26 UTC] PHP Notice:  Undefined property: sessie::$mode in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/medisom-extra/sm/ua_pro.php on line 150
+[07-Dec-2015 20:42:26 UTC] PHP Notice:  Undefined property: sessie::$mode in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/medisom-extra/sm/ua_pro.php on line 153
+[07-Dec-2015 20:42:26 UTC] PHP Notice:  Undefined property: sessie::$mode in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/medisom-extra/sm/ua_pro.php on line 181
+[07-Dec-2015 20:42:26 UTC] PHP Notice:  Undefined property: sessie::$mode in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/medisom-extra/sm/ua_pro.php on line 181
+[07-Dec-2015 21:46:59 UTC] PHP Notice:  Trying to get property of non-object in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/only-tweet-like-share-and-google-1/tweet-like-plusone.php on line 854
+[07-Dec-2015 21:46:59 UTC] PHP Notice:  Trying to get property of non-object in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/only-tweet-like-share-and-google-1/tweet-like-plusone.php on line 227
+[07-Dec-2015 21:46:59 UTC] PHP Notice:  Undefined offset: 0 in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/only-tweet-like-share-and-google-1/tweet-like-plusone.php on line 228
+[08-Dec-2015 13:27:14 UTC] PHP Notice:  Undefined offset: 0 in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/only-tweet-like-share-and-google-1/tweet-like-plusone.php on line 228
+[08-Dec-2015 20:45:07 UTC] PHP Notice:  Undefined offset: 0 in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/only-tweet-like-share-and-google-1/tweet-like-plusone.php on line 228
+[08-Dec-2015 22:37:04 UTC] PHP Notice:  Undefined offset: 0 in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/only-tweet-like-share-and-google-1/tweet-like-plusone.php on line 228
+[09-Dec-2015 07:55:23 UTC] PHP Notice:  Undefined offset: 0 in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/only-tweet-like-share-and-google-1/tweet-like-plusone.php on line 228
+[09-Dec-2015 07:55:33 UTC] PHP Notice:  Undefined offset: 0 in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/only-tweet-like-share-and-google-1/tweet-like-plusone.php on line 228
+[09-Dec-2015 07:55:33 UTC] PHP Warning:  Creating default object from empty value in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/medisom-extra/sm/wp_som.php on line 164
+[09-Dec-2015 07:56:15 UTC] PHP Notice:  Undefined property: sessie::$mode in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/medisom-extra/sm/ua_pro.php on line 83
+[09-Dec-2015 07:56:15 UTC] PHP Notice:  Undefined property: sessie::$mode in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/medisom-extra/sm/ua_pro.php on line 150
+[09-Dec-2015 07:56:15 UTC] PHP Notice:  Undefined property: sessie::$mode in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/medisom-extra/sm/ua_pro.php on line 153
+[09-Dec-2015 07:56:15 UTC] PHP Notice:  Undefined property: sessie::$mode in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/medisom-extra/sm/ua_pro.php on line 181
+[09-Dec-2015 07:56:15 UTC] PHP Notice:  Undefined property: sessie::$mode in /home/eduknl1q/public_html/medisom.nl/wp-content/plugins/medisom-extra/sm/ua_pro.php on line 181

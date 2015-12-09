@@ -1,0 +1,356 @@
+0000.000 (0) Opened log file at time: Mon, 09 Nov 2015 18:44:51 +0000 on http://medisom.nl
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.15 WP: 4.3.1 PHP: 5.6.13 (Linux www61.totaalholding.nl 2.6.32-604.16.2.lve1.3.54.el6.x86_64 #1 SMP Mon Jul 27 11:32:29 EDT 2015 x86_64) MySQL: 5.6.27 Server: Apache/2.4.16 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 14.9M | 15.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 1047922.9 Mb
+0000.006 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.016 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.041 (0) Requesting semaphore lock (fd)
+0000.043 (0) Set semaphore last lock (fd) time to 2015-11-09 18:44:51
+0000.045 (0) Semaphore lock (fd) complete
+0000.083 (0) Backup run: resumption=0, nonce=70ebaaa3f158, begun at=1447094691 (0s ago), job type=backup
+0000.087 (0) Scheduling a resumption (1) after 300 seconds (1447094991) in case this run gets aborted
+0000.150 (0) Checking if we have a zip executable available
+0000.166 (0) Creation of backups of directories: beginning
+0000.181 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0003.937 (0) Total entities for the zip file: 630 directories, 3584 files (0 skipped as non-modified), 42.4 Mb
+0003.949 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0004.184 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 100 files added (on-disk size: 121.1 Kb)
+0004.191 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 200 files added (on-disk size: 121.1 Kb)
+0004.201 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 300 files added (on-disk size: 121.1 Kb)
+0004.210 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 400 files added (on-disk size: 121.1 Kb)
+0004.222 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 500 files added (on-disk size: 121.1 Kb)
+0004.246 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.1 Mb, 3584 files batched, 501 (502) added so far); re-opening (prior size: 121.1 Kb)
+0010.132 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 600 files added (on-disk size: 2131 Kb)
+0010.142 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 700 files added (on-disk size: 2131 Kb)
+0010.153 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 800 files added (on-disk size: 2131 Kb)
+0010.185 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 900 files added (on-disk size: 2131 Kb)
+0010.200 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 1000 files added (on-disk size: 2131 Kb)
+0010.202 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.5 Mb, 3584 files batched, 501 (1003) added so far); re-opening (prior size: 2131 Kb)
+0019.229 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 1100 files added (on-disk size: 3483.3 Kb)
+0019.461 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 1200 files added (on-disk size: 3483.3 Kb)
+0019.477 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 1300 files added (on-disk size: 3483.3 Kb)
+0019.510 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 1400 files added (on-disk size: 3483.3 Kb)
+0019.527 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 1500 files added (on-disk size: 3483.3 Kb)
+0019.532 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.2 Mb, 3584 files batched, 501 (1504) added so far); re-opening (prior size: 3483.3 Kb)
+0027.731 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 1600 files added (on-disk size: 5060.7 Kb)
+0027.747 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 1700 files added (on-disk size: 5060.7 Kb)
+0027.765 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 1800 files added (on-disk size: 5060.7 Kb)
+0027.792 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 1900 files added (on-disk size: 5060.7 Kb)
+0027.808 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 2000 files added (on-disk size: 5060.7 Kb)
+0027.820 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7 Mb, 3584 files batched, 501 (2005) added so far); re-opening (prior size: 5060.7 Kb)
+0034.907 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 2100 files added (on-disk size: 7842.4 Kb)
+0035.095 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 2200 files added (on-disk size: 7842.4 Kb)
+0035.114 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 2300 files added (on-disk size: 7842.4 Kb)
+0035.133 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 2400 files added (on-disk size: 7842.4 Kb)
+0035.153 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 2500 files added (on-disk size: 7842.4 Kb)
+0035.156 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.1 Mb, 3584 files batched, 501 (2506) added so far); re-opening (prior size: 7842.4 Kb)
+0039.960 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 2600 files added (on-disk size: 8780.7 Kb)
+0039.987 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 2700 files added (on-disk size: 8780.7 Kb)
+0040.031 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 2800 files added (on-disk size: 8780.7 Kb)
+0040.071 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 2900 files added (on-disk size: 8780.7 Kb)
+0040.115 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 3000 files added (on-disk size: 8780.7 Kb)
+0040.118 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3 Mb, 3584 files batched, 501 (3007) added so far); re-opening (prior size: 8780.7 Kb)
+0043.811 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 3100 files added (on-disk size: 9799.6 Kb)
+0043.835 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 3200 files added (on-disk size: 9799.6 Kb)
+0043.859 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 3300 files added (on-disk size: 9799.6 Kb)
+0043.881 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 3400 files added (on-disk size: 9799.6 Kb)
+0043.984 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip.tmp: 3500 files added (on-disk size: 9799.6 Kb)
+0043.988 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.9 Mb, 3584 files batched, 501 (3508) added so far); re-opening (prior size: 9799.6 Kb)
+0052.991 (0) Created plugins zip (0) - 15700 Kb in 52.8 s (297.4 Kb/s) (SHA1 checksum: 3f20f7b5ea41dd7ba8d7859b1820abb0fff9003c)
+0052.995 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0054.207 (0) Total entities for the zip file: 109 directories, 888 files (0 skipped as non-modified), 35.6 Mb
+0054.215 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0054.220 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0054.226 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0054.231 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 Mb added on this batch (27.5 Mb, 888 files batched, 348 (348) added so far); re-opening (prior size: 0 Kb)
+0077.922 (0) A useful amount of data was added after this amount of zip processing: 25 s (normalised: 22.7 s, rate: 1127.4 Kb/s)
+0077.943 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-themes.zip.tmp: 400 files added (on-disk size: 9338.4 Kb)
+0077.950 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-themes.zip.tmp: 500 files added (on-disk size: 9338.4 Kb)
+0077.958 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-themes.zip.tmp: 600 files added (on-disk size: 9338.4 Kb)
+0077.967 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-themes.zip.tmp: 700 files added (on-disk size: 9338.4 Kb)
+0077.975 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-themes.zip.tmp: 800 files added (on-disk size: 9338.4 Kb)
+0077.981 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.4 Mb, 888 files batched, 501 (849) added so far); re-opening (prior size: 9338.4 Kb)
+0085.773 (0) Created themes zip (0) - 14891.1 Kb in 32.8 s (454.3 Kb/s) (SHA1 checksum: 4decc8d1cd994710c97ae5cbb96332cf152f354e)
+0085.777 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0085.778 (0) Looking for candidates to back up in: /home/eduknl1q/public_html/medisom.nl/wp-content/uploads
+0085.780 (0) finding files: dynamic_avia: adding to list (1)
+0085.781 (0) finding files: 2015: adding to list (2)
+0085.783 (0) finding files: ithemes-security: adding to list (3)
+0085.784 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0085.867 (0) Total entities for the zip file: 14 directories, 289 files (0 skipped as non-modified), 33.6 Mb
+0085.871 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0085.877 (0) Zip: backup_2015-11-09-1944_medisom_70ebaaa3f158-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0085.880 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 Mb added on this batch (25.2 Mb, 289 files batched, 218 (218) added so far); re-opening (prior size: 0 Kb)
+0106.170 (0) A useful amount of data was added after this amount of zip processing: 21.2 s (normalised: 21 s, rate: 1218.7 Kb/s)
+0109.041 (0) Created uploads zip (0) - 28264.6 Kb in 23.3 s (1215.4 Kb/s) (SHA1 checksum: 717b0c61099279bc091b4eeb1121b95642cf68ba)
+0109.045 (0) Beginning backup of other directories found in the content directory (index: 0)
+0109.047 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups
+0109.048 (0) Looking for candidates to back up in: /home/eduknl1q/public_html/medisom.nl/wp-content
+0109.050 (0) finding files: debug.log: adding to list (1)
+0109.051 (0) finding files: updraft: skipping: this is the updraft directory
+0109.052 (0) finding files: themes: skipping: this is the themes directory
+0109.054 (0) finding files: index.php: adding to list (2)
+0109.055 (0) finding files: uploads: skipping: this is the uploads directory
+0109.056 (0) finding files: plugins: skipping: this is the plugins directory
+0109.058 (0) finding files: upgrade: skipping: excluded by options
+0109.059 (0) finding files: wp-cache-config.php: adding to list (3)
+0109.060 (0) finding files: languages: adding to list (4)
+0109.065 (0) Total entities for the zip file: 3 directories, 21 files (0 skipped as non-modified), 1.7 Mb
+0110.155 (0) Created others zip (0) - 507.2 Kb in 1.1 s (464.2 Kb/s) (SHA1 checksum: 0b9b0f93f3f9cbc72e8ef1d497d0bbcaddbe6766)
+0110.272 (0) Saving backup status to database (elements: 8)
+0110.277 (0) Beginning creation of database dump (WordPress DB)
+0110.285 (0) Table m_options: Total expected rows (approximate): 403
+0110.317 (0) Table m_options: Total rows added: 402 in 0.03 seconds
+0110.320 (0) Table m_options: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_options.table.gz - 64.9 Kb)
+0110.325 (0) Table m_users: Total expected rows (approximate): 6
+0110.332 (0) Table m_users: Total rows added: 6 in 0.00 seconds
+0110.333 (0) Table m_users: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_users.table.gz - 1 Kb)
+0110.338 (0) Table m_usermeta: Total expected rows (approximate): 92
+0110.345 (0) Table m_usermeta: Total rows added: 92 in 0.01 seconds
+0110.347 (0) Table m_usermeta: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_usermeta.table.gz - 1.8 Kb)
+0110.633 (0) Table m_commentmeta: Total expected rows (approximate): 0
+0110.696 (0) Table m_commentmeta: Total rows added: 0 in 0.01 seconds
+0110.699 (0) Table m_commentmeta: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_commentmeta.table.gz - 0.3 Kb)
+0110.810 (0) Table m_comments: Total expected rows (approximate): 0
+0110.818 (0) Table m_comments: Total rows added: 0 in 0.01 seconds
+0110.897 (0) Table m_comments: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_comments.table.gz - 0.5 Kb)
+0110.974 (0) Table m_links: Total expected rows (approximate): 0
+0110.995 (0) Table m_links: Total rows added: 0 in 0.01 seconds
+0111.011 (0) Table m_links: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_links.table.gz - 0.4 Kb)
+0111.019 (0) Table m_postmeta: Total expected rows (approximate): 536
+0111.062 (0) Table m_postmeta: Total rows added: 536 in 0.04 seconds
+0111.064 (0) Table m_postmeta: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_postmeta.table.gz - 10.4 Kb)
+0111.071 (0) Table m_posts: Total expected rows (approximate): 258
+0111.158 (0) Table m_posts: Total rows added: 258 in 0.09 seconds
+0111.161 (0) Table m_posts: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_posts.table.gz - 27.3 Kb)
+0111.167 (0) Table m_term_relationships: Total expected rows (approximate): 17
+0111.186 (0) Table m_term_relationships: Total rows added: 17 in 0.01 seconds
+0111.189 (0) Table m_term_relationships: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_term_relationships.table.gz - 0.4 Kb)
+0111.194 (0) Table m_term_taxonomy: Total expected rows (approximate): 2
+0111.201 (0) Table m_term_taxonomy: Total rows added: 2 in 0.01 seconds
+0111.212 (0) Table m_term_taxonomy: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_term_taxonomy.table.gz - 0.4 Kb)
+0111.219 (0) Table m_terms: Total expected rows (approximate): 2
+0111.226 (0) Table m_terms: Total rows added: 2 in 0.01 seconds
+0111.240 (0) Table m_terms: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_terms.table.gz - 0.4 Kb)
+0111.292 (0) Table m_an: Total expected rows (approximate): 729
+0111.411 (0) Table m_an: Total rows added: 729 in 0.09 seconds
+0111.414 (0) Table m_an: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_an.table.gz - 20.8 Kb)
+0111.431 (0) Table m_itsec_lockouts: Total expected rows (approximate): 0
+0111.436 (0) Table m_itsec_lockouts: Total rows added: 0 in 0.00 seconds
+0111.438 (0) Table m_itsec_lockouts: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_itsec_lockouts.table.gz - 0.4 Kb)
+0111.488 (0) Table m_itsec_log: Total expected rows (approximate): 22
+0111.506 (0) Table m_itsec_log: Total rows added: 22 in 0.02 seconds
+0111.508 (0) Table m_itsec_log: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_itsec_log.table.gz - 1.3 Kb)
+0111.548 (0) Table m_itsec_temp: Total expected rows (approximate): 7
+0111.554 (0) Table m_itsec_temp: Total rows added: 7 in 0.00 seconds
+0111.571 (0) Table m_itsec_temp: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_itsec_temp.table.gz - 0.5 Kb)
+0111.603 (0) Table m_layerslider: Total expected rows (approximate): 2
+0111.611 (0) Table m_layerslider: Total rows added: 2 in 0.01 seconds
+0111.623 (0) Table m_layerslider: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_layerslider.table.gz - 2.5 Kb)
+0111.629 (0) Table m_lg: Total expected rows (approximate): 38
+0111.639 (0) Table m_lg: Total rows added: 38 in 0.01 seconds
+0111.642 (0) Table m_lg: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_lg.table.gz - 1.2 Kb)
+0111.649 (0) Table m_oe: Total expected rows (approximate): 1129
+0111.697 (0) Table m_oe: Total rows added: 1129 in 0.05 seconds
+0111.700 (0) Table m_oe: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_oe.table.gz - 19 Kb)
+0111.745 (0) Table m_optinrev: Total expected rows (approximate): 17
+0111.765 (0) Table m_optinrev: Total rows added: 17 in 0.02 seconds
+0111.767 (0) Table m_optinrev: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_optinrev.table.gz - 3.8 Kb)
+0111.799 (0) Table m_popover_ip_cache: Total expected rows (approximate): 0
+0111.808 (0) Table m_popover_ip_cache: Total rows added: 0 in 0.01 seconds
+0111.810 (0) Table m_popover_ip_cache: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_popover_ip_cache.table.gz - 0.3 Kb)
+0111.816 (0) Table m_se: Total expected rows (approximate): 546
+0111.837 (0) Table m_se: Total rows added: 546 in 0.02 seconds
+0111.851 (0) Table m_se: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_se.table.gz - 10.3 Kb)
+0111.860 (0) Table m_sy: Total expected rows (approximate): 154
+0111.876 (0) Table m_sy: Total rows added: 154 in 0.01 seconds
+0111.881 (0) Table m_sy: finishing file (backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_sy.table.gz - 6.8 Kb)
+0111.887 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_options.table.gz (1/22): adding to final database dump
+0111.907 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_users.table.gz (2/22): adding to final database dump
+0111.910 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_usermeta.table.gz (3/22): adding to final database dump
+0111.915 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_commentmeta.table.gz (4/22): adding to final database dump
+0111.917 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_comments.table.gz (5/22): adding to final database dump
+0111.918 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_links.table.gz (6/22): adding to final database dump
+0111.920 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_postmeta.table.gz (7/22): adding to final database dump
+0111.927 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_posts.table.gz (8/22): adding to final database dump
+0111.948 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_term_relationships.table.gz (9/22): adding to final database dump
+0111.983 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_term_taxonomy.table.gz (10/22): adding to final database dump
+0111.985 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_terms.table.gz (11/22): adding to final database dump
+0111.987 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_an.table.gz (12/22): adding to final database dump
+0111.997 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_itsec_lockouts.table.gz (13/22): adding to final database dump
+0111.999 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_itsec_log.table.gz (14/22): adding to final database dump
+0112.001 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_itsec_temp.table.gz (15/22): adding to final database dump
+0112.010 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_layerslider.table.gz (16/22): adding to final database dump
+0112.013 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_lg.table.gz (17/22): adding to final database dump
+0112.015 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_oe.table.gz (18/22): adding to final database dump
+0112.028 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_optinrev.table.gz (19/22): adding to final database dump
+0112.036 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_popover_ip_cache.table.gz (20/22): adding to final database dump
+0112.038 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_se.table.gz (21/22): adding to final database dump
+0112.044 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db-table-m_sy.table.gz (22/22): adding to final database dump
+0112.048 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db.gz: finished writing out complete database file (144 Kb)
+0112.062 (0) Total database tables backed up: 22 (backup_2015-11-09-1944_medisom_70ebaaa3f158-db.gz, size: 175797, checksum (SHA1): f23669fe220ba3c58633047207a1597255583bb0)
+0112.065 (0) Saving backup history
+0112.075 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0112.084 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0112.086 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0112.087 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-others.zip: others: This file has not yet been successfully uploaded: will queue
+0112.088 (0) backup_2015-11-09-1944_medisom_70ebaaa3f158-db.gz: db: This file has not yet been successfully uploaded: will queue
+0112.094 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0112.099 (0) Cloud backup selection (1/1): dropbox (last)
+0112.101 (0) Beginning dispatch of backup to remote (dropbox)
+0112.109 (0) Dropbox: begin cloud upload
+0112.120 (0) Dropbox: access gained
+0113.059 (0) Dropbox quota usage: normal=2589.2 Mb, shared=734.4 Mb, total=4352 Mb, available=1028.4 Mb
+0113.061 (0) Dropbox: Attempt to upload: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip to: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip
+0115.025 (0) Dropbox chunked upload: 6.5 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 1048576)
+0117.437 (0) Dropbox chunked upload: 13 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 2097152)
+0120.122 (0) Dropbox chunked upload: 19.6 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 3145728)
+0123.031 (0) Dropbox chunked upload: 26.1 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 4194304)
+0124.907 (0) Dropbox chunked upload: 32.6 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 5242880)
+0126.985 (0) Dropbox chunked upload: 39.1 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 6291456)
+0129.217 (0) Dropbox chunked upload: 45.7 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 7340032)
+0132.138 (0) Dropbox chunked upload: 52.2 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 8388608)
+0134.353 (0) Dropbox chunked upload: 58.7 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 9437184)
+0138.858 (0) Dropbox chunked upload: 65.2 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 10485760)
+0142.161 (0) Dropbox chunked upload: 71.7 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 11534336)
+0144.935 (0) Dropbox chunked upload: 78.3 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 12582912)
+0147.011 (0) Dropbox chunked upload: 84.8 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 13631488)
+0149.499 (0) Dropbox chunked upload: 91.3 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 14680064)
+0151.707 (0) Dropbox chunked upload: 97.8 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 15728640)
+0153.688 (0) Dropbox chunked upload: 100 % uploaded (CXARlwf1VtO5l1PbtyQAgg, 16076750)
+0156.098 (0) Recording as successfully uploaded: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip (f99faf62434293080eb9b105a4d406c6)
+0156.262 (0) Deleting local file: backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip: OK
+0156.264 (0) Dropbox: File upload success (backup_2015-11-09-1944_medisom_70ebaaa3f158-plugins.zip): 15699 Kb in 43s (363 Kb/s)
+0157.223 (0) Dropbox quota usage: normal=2604.6 Mb, shared=734.4 Mb, total=4352 Mb, available=1013 Mb
+0157.225 (0) Dropbox: Attempt to upload: backup_2015-11-09-1944_medisom_70ebaaa3f158-themes.zip to: backup_2015-11-09-1944_medisom_70ebaaa3f158-themes.zip
+0160.117 (0) Dropbox chunked upload: 6.9 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 1048576)
+0162.373 (0) Dropbox chunked upload: 13.8 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 2097152)
+0164.598 (0) Dropbox chunked upload: 20.6 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 3145728)
+0167.310 (0) Dropbox chunked upload: 27.5 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 4194304)
+0169.164 (0) Dropbox chunked upload: 34.4 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 5242880)
+0171.370 (0) Dropbox chunked upload: 41.3 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 6291456)
+0174.509 (0) Dropbox chunked upload: 48.1 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 7340032)
+0178.167 (0) Dropbox chunked upload: 55 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 8388608)
+0180.105 (0) Dropbox chunked upload: 61.9 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 9437184)
+0182.423 (0) Dropbox chunked upload: 68.8 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 10485760)
+0184.627 (0) Dropbox chunked upload: 75.6 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 11534336)
+0188.304 (0) Dropbox chunked upload: 82.5 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 12582912)
+0190.235 (0) Dropbox chunked upload: 89.4 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 13631488)
+0192.460 (0) Dropbox chunked upload: 96.3 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 14680064)
+0194.739 (0) Dropbox chunked upload: 100 % uploaded (U4hQ1_oXDG0-sKqf6FvFow, 15248448)
+0196.888 (0) Recording as successfully uploaded: backup_2015-11-09-1944_medisom_70ebaaa3f158-themes.zip (6c0d124204351358dc17e195f652123b)
+0196.903 (0) Deleting local file: backup_2015-11-09-1944_medisom_70ebaaa3f158-themes.zip: OK
+0196.905 (0) Dropbox: File upload success (backup_2015-11-09-1944_medisom_70ebaaa3f158-themes.zip): 14891 Kb in 39s (375 Kb/s)
+0197.811 (0) Dropbox quota usage: normal=2619.1 Mb, shared=734.4 Mb, total=4352 Mb, available=998.5 Mb
+0197.814 (0) Dropbox: Attempt to upload: backup_2015-11-09-1944_medisom_70ebaaa3f158-uploads.zip to: backup_2015-11-09-1944_medisom_70ebaaa3f158-uploads.zip
+0199.901 (0) Dropbox chunked upload: 3.6 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 1048576)
+0202.323 (0) Dropbox chunked upload: 7.2 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 2097152)
+0204.481 (0) Dropbox chunked upload: 10.9 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 3145728)
+0207.435 (0) Dropbox chunked upload: 14.5 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 4194304)
+0210.672 (0) Dropbox chunked upload: 18.1 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 5242880)
+0212.704 (0) Dropbox chunked upload: 21.7 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 6291456)
+0215.034 (0) Dropbox chunked upload: 25.4 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 7340032)
+0217.602 (0) Dropbox chunked upload: 29 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 8388608)
+0220.170 (0) Dropbox chunked upload: 32.6 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 9437184)
+0222.246 (0) Dropbox chunked upload: 36.2 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 10485760)
+0224.570 (0) Dropbox chunked upload: 39.9 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 11534336)
+0227.425 (0) Dropbox chunked upload: 43.5 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 12582912)
+0229.411 (0) Dropbox chunked upload: 47.1 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 13631488)
+0231.503 (0) Dropbox chunked upload: 50.7 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 14680064)
+0233.757 (0) Dropbox chunked upload: 54.3 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 15728640)
+0236.662 (0) Dropbox chunked upload: 58 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 16777216)
+0238.556 (0) Dropbox chunked upload: 61.6 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 17825792)
+0240.658 (0) Dropbox chunked upload: 65.2 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 18874368)
+0243.708 (0) Dropbox chunked upload: 68.8 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 19922944)
+0246.508 (0) Dropbox chunked upload: 72.5 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 20971520)
+0248.362 (0) Dropbox chunked upload: 76.1 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 22020096)
+0250.557 (0) Dropbox chunked upload: 79.7 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 23068672)
+0252.829 (0) Dropbox chunked upload: 83.3 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 24117248)
+0255.606 (0) The scheduled resumption is within 45 seconds - will reschedule
+0255.610 (0) Rescheduling resumption 1: moving to 345 seconds from now (1447095291)
+0255.615 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0255.616 (0) Dropbox chunked upload: 86.9 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 25165824)
+0257.673 (0) Dropbox chunked upload: 90.6 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 26214400)
+0259.895 (0) Dropbox chunked upload: 94.2 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 27262976)
+0262.270 (0) Dropbox chunked upload: 97.8 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 28311552)
+0264.563 (0) Dropbox chunked upload: 100 % uploaded (dFtKM16Wx2M9shPRDgFWcA, 28942950)
+0266.736 (0) Recording as successfully uploaded: backup_2015-11-09-1944_medisom_70ebaaa3f158-uploads.zip (2fcba20294f5240ec0154e43b36d78c9)
+0266.747 (0) Deleting local file: backup_2015-11-09-1944_medisom_70ebaaa3f158-uploads.zip: OK
+0266.748 (0) Dropbox: File upload success (backup_2015-11-09-1944_medisom_70ebaaa3f158-uploads.zip): 28264 Kb in 68s (410 Kb/s)
+0267.810 (0) Dropbox quota usage: normal=2646.7 Mb, shared=734.4 Mb, total=4352 Mb, available=970.9 Mb
+0267.812 (0) Dropbox: Attempt to upload: backup_2015-11-09-1944_medisom_70ebaaa3f158-others.zip to: backup_2015-11-09-1944_medisom_70ebaaa3f158-others.zip
+0269.408 (0) Dropbox chunked upload: 100 % uploaded (__AAAAAAAAAa5E2zaWRtVA4A, 519404)
+0270.863 (0) Recording as successfully uploaded: backup_2015-11-09-1944_medisom_70ebaaa3f158-others.zip (36689e093198a04c6700be31c9c063a5)
+0270.869 (0) Deleting local file: backup_2015-11-09-1944_medisom_70ebaaa3f158-others.zip: OK
+0270.871 (0) Dropbox: File upload success (backup_2015-11-09-1944_medisom_70ebaaa3f158-others.zip): 507 Kb in 3s (165 Kb/s)
+0271.765 (0) Dropbox quota usage: normal=2647.2 Mb, shared=734.4 Mb, total=4352 Mb, available=970.4 Mb
+0271.768 (0) Dropbox: Attempt to upload: backup_2015-11-09-1944_medisom_70ebaaa3f158-db.gz to: backup_2015-11-09-1944_medisom_70ebaaa3f158-db.gz
+0273.266 (0) Dropbox chunked upload: 100 % uploaded (H6vIg4KCPsXvniPQcvc6pQ, 175797)
+0274.643 (0) Recording as successfully uploaded: backup_2015-11-09-1944_medisom_70ebaaa3f158-db.gz (618d196ccac799a26a11bd0642fe62ab)
+0276.840 (0) Deleting local file: backup_2015-11-09-1944_medisom_70ebaaa3f158-db.gz: OK
+0276.844 (0) Dropbox: File upload success (backup_2015-11-09-1944_medisom_70ebaaa3f158-db.gz): 171 Kb in 5s (33 Kb/s)
+0276.848 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=15, retain_db=5
+0276.850 (0) Number of backup sets in history: 16
+0276.852 (0) Examining backup set with datestamp: 1447094691 (Nov 09 2015 18:44:51)
+0276.854 (0) 1447094691: this backup set remains non-empty (1/1); will retain in history
+0276.856 (0) Examining backup set with datestamp: 1447009439 (Nov 08 2015 19:03:59)
+0276.860 (0) 1447009439: this backup set remains non-empty (1/1); will retain in history
+0276.862 (0) Examining backup set with datestamp: 1446919139 (Nov 07 2015 17:58:59)
+0276.863 (0) 1446919139: this backup set remains non-empty (1/1); will retain in history
+0276.864 (0) Examining backup set with datestamp: 1446835786 (Nov 06 2015 18:49:46)
+0276.866 (0) 1446835786: this backup set remains non-empty (1/1); will retain in history
+0276.867 (0) Examining backup set with datestamp: 1446752523 (Nov 05 2015 19:42:03)
+0276.869 (0) 1446752523: this backup set remains non-empty (1/1); will retain in history
+0276.870 (0) Examining backup set with datestamp: 1446659707 (Nov 04 2015 17:55:07)
+0276.871 (0) 1446659707: db: this set includes a database (backup_2015-11-04-1855_medisom_04bda1b2a3d8-db.gz); db count is now 6
+0276.873 (0) 1446659707: db: over retain limit (5); will delete this database
+0276.874 (0) Delete file: backup_2015-11-04-1855_medisom_04bda1b2a3d8-db.gz, service=dropbox
+0276.876 (0) Dropbox: request deletion: backup_2015-11-04-1855_medisom_04bda1b2a3d8-db.gz
+0278.278 (0) Dropbox: delete succeeded
+0278.283 (0) 1446659707: this backup set remains non-empty (1/0); will retain in history
+0278.285 (0) Examining backup set with datestamp: 1446573185 (Nov 03 2015 17:53:05)
+0278.287 (0) 1446573185: this backup set remains non-empty (1/0); will retain in history
+0278.289 (0) Examining backup set with datestamp: 1446488364 (Nov 02 2015 18:19:24)
+0278.291 (0) 1446488364: this backup set remains non-empty (1/0); will retain in history
+0278.292 (0) Examining backup set with datestamp: 1446402584 (Nov 01 2015 18:29:44)
+0278.294 (0) 1446402584: this backup set remains non-empty (1/0); will retain in history
+0278.296 (0) Examining backup set with datestamp: 1446322685 (Oct 31 2015 20:18:05)
+0278.298 (0) 1446322685: this backup set remains non-empty (1/0); will retain in history
+0278.300 (0) Examining backup set with datestamp: 1446229076 (Oct 30 2015 18:17:56)
+0278.301 (0) 1446229076: this backup set remains non-empty (1/0); will retain in history
+0278.303 (0) Examining backup set with datestamp: 1446143700 (Oct 29 2015 18:35:00)
+0278.305 (0) 1446143700: this backup set remains non-empty (1/0); will retain in history
+0278.307 (0) Examining backup set with datestamp: 1446054035 (Oct 28 2015 17:40:35)
+0278.400 (0) 1446054035: this backup set remains non-empty (1/0); will retain in history
+0278.402 (0) Examining backup set with datestamp: 1445969814 (Oct 27 2015 18:16:54)
+0278.404 (0) 1445969814: this backup set remains non-empty (1/0); will retain in history
+0278.406 (0) Examining backup set with datestamp: 1445882197 (Oct 26 2015 17:56:37)
+0278.407 (0) 1445882197: this backup set remains non-empty (1/0); will retain in history
+0278.409 (0) Examining backup set with datestamp: 1445855158 (Oct 26 2015 10:25:58)
+0278.411 (0) plugins: 1445855158: over retain limit (15); will delete this file (backup_2015-10-26-1125_medisom_a66fa09db98e-plugins.zip)
+0278.412 (0) themes: 1445855158: over retain limit (15); will delete this file (backup_2015-10-26-1125_medisom_a66fa09db98e-themes.zip)
+0278.414 (0) uploads: 1445855158: over retain limit (15); will delete this file (backup_2015-10-26-1125_medisom_a66fa09db98e-uploads.zip)
+0278.415 (0) others: 1445855158: over retain limit (15); will delete this file (backup_2015-10-26-1125_medisom_a66fa09db98e-others.zip)
+0278.417 (0) Delete file: backup_2015-10-26-1125_medisom_a66fa09db98e-plugins.zip, service=dropbox
+0278.418 (0) Delete file: backup_2015-10-26-1125_medisom_a66fa09db98e-themes.zip, service=dropbox
+0278.420 (0) Delete file: backup_2015-10-26-1125_medisom_a66fa09db98e-uploads.zip, service=dropbox
+0278.422 (0) Delete file: backup_2015-10-26-1125_medisom_a66fa09db98e-others.zip, service=dropbox
+0278.423 (0) Dropbox: request deletion: backup_2015-10-26-1125_medisom_a66fa09db98e-plugins.zip
+0280.357 (0) Dropbox: delete succeeded
+0280.359 (0) Dropbox: request deletion: backup_2015-10-26-1125_medisom_a66fa09db98e-themes.zip
+0281.664 (0) Dropbox: delete succeeded
+0281.667 (0) Dropbox: request deletion: backup_2015-10-26-1125_medisom_a66fa09db98e-uploads.zip
+0282.837 (0) Dropbox: delete succeeded
+0282.840 (0) Dropbox: request deletion: backup_2015-10-26-1125_medisom_a66fa09db98e-others.zip
+0284.088 (0) Dropbox: delete succeeded
+0284.092 (0) 1445855158: this backup set is now empty; will remove from history
+0284.093 (0) 1445855158: deleting log file (log.a66fa09db98e.txt)
+0284.110 (0) Retain: saving new backup history (sets now: 15) and finishing retain operation
+0284.127 (0) Resume backup (70ebaaa3f158, 0): finish run
+0284.131 (0) Decremented the semaphore (fd) by 1
+0284.132 (0) Semaphore (fd) unlocked
+0284.134 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0284.139 (0) The backup apparently succeeded and is now complete
+0284.141 (0) Fetching RSS news feed
+0284.621 (0) Fetched RSS news feed; result is a: SimplePie
+0284.624 (0) Sending email ('Bestanden en database (Volledige backup)') report (attachments: 0, size: 0 Kb) to: info@...
+0284.944 (0) De backup is zo te zien geslaagd, en is nu afgerond.

@@ -1,0 +1,185 @@
+<tp=pa;id=mk><_vr=mk;as=10;aa=5;wc=-7>
+<tp=pa;id=ov><_vr=ov;as=10>
+<tp=co;id=tf01;ti=tafel van 1>
+<tp=co;id=tf02;ti=tafel van 2>
+<tp=co;id=tf03;ti=tafel van 3>
+<tp=co;id=tf04;ti=tafel van 4>
+<tp=co;id=tf05;ti=tafel van 5>
+<tp=co;id=tf06;ti=tafel van 6>
+<tp=co;id=tf07;ti=tafel van 7>
+<tp=co;id=tf08;ti=tafel van 8>
+<tp=co;id=tf09;ti=tafel van 9>
+<tp=co;id=tf10;ti=tafel van 10>
+<tp=co;id=tf11;ti=tafel van 11>
+<tp=co;id=tf12;ti=tafel van 12>
+<tp=co;id=tf25;ti=tafel van 25>
+<tp=co;id=tf1-6;ti=tafels van 1,2,3,4,5,6 door elkaar> 
+<tp=co;id=tf3-6;ti=tafels van 3,4,5,6 door elkaar>
+<tp=co;id=tf7-9;ti=tafels van 7,8,9 door elkaar>
+<tp=co;id=bo5al;ti=BO groep 5 alle oefeningen>
+<tp=co;id=bo5pl;ti=BO groep 5 alle + oefeningen>
+<tp=co;id=bo5mi;ti=BO groep 5 alle - oefeningen>
+<tp=co;id=bo5ke;ti=BO groep 5 alle x oefeningen>
+<tp=co;id=bo5de;ti=BO groep 5 alle / oefeningen>
+<tp=co;id=bo5br;ti=BO groep 5 alle breuken oefeningen>
+<tp=co;id=bo6al;ti=BO groep 6 alle oefeningen>
+<tp=co;id=bo6pl;ti=BO groep 6 alle + oefeningen>
+<tp=co;id=bo6mi;ti=BO groep 6 alle - oefeningen>
+<tp=co;id=bo6ke;ti=BO groep 6 alle x oefeningen>
+<tp=co;id=bo6de;ti=BO groep 6 alle / oefeningen>
+<tp=co;id=bo6br;ti=BO groep 6 alle breuken oefeningen>
+<tp=co;id=bo7al;ti=BO groep 7 alle oefeningen>
+<tp=co;id=bo7pl;ti=BO groep 7 alle + oefeningen>
+<tp=co;id=bo7mi;ti=BO groep 7 alle - oefeningen>
+<tp=co;id=bo7ke;ti=BO groep 7 alle x oefeningen>
+<tp=co;id=bo7de;ti=BO groep 7 alle / oefeningen>
+<tp=co;id=bo7br;ti=BO groep 7 alle breuken oefeningen>
+<tp=co;id=bo8al;ti=BO groep 8 alle oefeningen>
+<tp=co;id=bo8pl;ti=BO groep 8 alle + oefeningen>
+<tp=co;id=bo8mi;ti=BO groep 8 alle - oefeningen>
+<tp=co;id=bo8ke;ti=BO groep 8 alle x oefeningen>
+<tp=co;id=bo8de;ti=BO groep 8 alle / oefeningen>
+<tp=co;id=bo8br;ti=BO groep 8 alle breuken oefeningen>
+<tp=co;id=vo1al;ti=VO alle basis oefeningen>
+<tp=co;id=vo1pl;ti=VO alle + oefeningen>
+<tp=co;id=vo1mi;ti=VO alle - oefeningen>
+<tp=co;id=vo1ke;ti=VO alle x oefeningen>
+<tp=co;id=vo1de;ti=VO alle / oefeningen>
+<tp=co;id=vo1br;ti=VO alle breuken >
+<tp=co;id=vobrxl;ti=VO alle breuken extra>
+<tp=co;id=vomvaf;ti=VO afronden>
+<tp=co;id=vomvkw;ti=VO kwadraten>
+<tp=co;id=voms1;ti=metrisch lengtes >
+<tp=co;id=voms2;ti=metrisch lengtes extra>
+<tp=co;id=voms3;ti=metrisch oppervlakte >
+<tp=co;id=voms4;ti=metrisch oppervlakte extra>
+<tp=co;id=voms5;ti=metrisch volume >
+<tp=co;id=voms6;ti=metrisch volume extra>
+<tp=co;id=voms7;ti=inhoudsmaten vloeistoffen>
+<tp=co;id=voms8;ti=gewicht>
+<tp=co;id=vogo1;ti=zijdes driehoek>
+<tp=co;id=vogo2;ti=hoek tan>
+<tp=co;id=vogo3;ti=hoek sin>
+<tp=co;id=vogo4;ti=hoek cos>
+<tp=co;id=vogo5;ti=hoek door elkaar>
+<tp=co;id=vogo6;ti=zijde tan>
+<tp=co;id=vogo7;ti=zijde sin>
+<tp=co;id=vogo8;ti=zijde cos>
+<tp=co;id=vogo9;ti=zijde door elkaar>
+<tp=co;id=vogo10;ti=zijde / hoek door elkaar>
+<tp=co;id=vogo20;ti=pythagoras>
+<tp=co;id=vopc1;ti=percentages >
+<tp=co;id=vopc2;ti=percentages extra>
+<tp=co;id=vomk1;ti=rechthoek>
+<tp=co;id=vomk2;ti=driehoek>
+<tp=co;id=vomk3;ti=parallelogram>
+<tp=co;id=vomk4;ti=trapezium>
+<tp=br;id=tf01;ti=tafel van 1><rk=ke|1;wd=15;t1b=1;t1t=10;t2b=1;t2t=1;in=uh><rl=tf01|mk;ao=3><rl=tf01|ov;ao=10><rl=tf1-6|mk;ao=3><rl=tf1-6|ov;ao=4>
+<tp=br;id=tf02;ti=tafel van 2><rk=ke|1;wd=25;t1b=1;t1t=10;t2b=2;t2t=2;in=uh><rl=tf02|mk;ao=3><rl=tf02|ov;ao=10><rl=tf1-6|mk;ao=4><rl=tf1-6|ov;ao=7>
+<tp=br;id=tf03;ti=tafel van 3><rk=ke|1;wd=40;t1b=1;t1t=10;t2b=3;t2t=3;in=uh><rl=tf03|mk;ao=3><rl=tf03|ov;ao=10><rl=tf1-6|mk;ao=6><rl=tf1-6|ov;ao=10><rl=tf3-6|mk;ao=6><rl=tf3-6|ov;ao=10>
+<tp=br;id=tf04;ti=tafel van 4><rk=ke|1;t1b=1;wd=35;t1t=10;t2b=4;t2t=4;in=uh><rl=tf04|mk;ao=3><rl=tf04|ov;ao=10><rl=tf1-6|mk;ao=4><rl=tf1-6|ov;ao=10><rl=tf3-6|mk;ao=5><rl=tf3-6|ov;ao=10>
+<tp=br;id=tf05;ti=tafel van 5><rk=ke|1;wd=30;t1b=1;t1t=10;t2b=5;t2t=5;in=uh><rl=tf05|mk;ao=3><rl=tf05|ov;ao=10><rl=tf1-6|mk;ao=5><rl=tf1-6|ov;ao=10><rl=tf3-6|mk;ao=6><rl=tf3-6|ov;ao=10>
+<tp=br;id=tf06;ti=tafel van 6><rk=ke|1;wd=35;t1b=1;t1t=10;t2b=6;t2t=6;in=uh><rl=tf06|mk;ao=5><rl=tf06|ov;ao=10><rl=tf1-6|mk;ao=7><rl=tf1-6|ov;ao=10><rl=tf3-6|mk;ao=6><rl=tf3-6|ov;ao=10>
+<tp=br;id=tf07;ti=tafel van 7><rk=ke|1;wd=50;t1b=1;t1t=10;t2b=7;t2t=7;in=uh><rl=tf07|mk;ao=7><rl=tf07|ov;ao=10><rl=tf7-9|mk;ao=7><rl=tf7-9|ov;ao=10>
+<tp=br;id=tf08;ti=tafel van 8><rk=ke|1;wd=45;t1b=1;t1t=10;t2b=8;t2t=8;in=uh><rl=tf08|mk;ao=7><rl=tf08|ov;ao=10><rl=tf7-9|mk;ao=3><rl=tf7-9|ov;ao=10>
+<tp=br;id=tf09;ti=tafel van 9><rk=ke|1;wd=40;t1b=1;t1t=10;t2b=9;t2t=9;in=uh><rl=tf09|mk;ao=7><rl=tf09|ov;ao=10><rl=tf7-9|mk;ao=3><rl=tf7-9|ov;ao=10>
+<tp=br;id=tf10;ti=tafel van 10><rk=ke|1;wd=15;t1b=1;t1t=10;t2b=10;t2t=10;in=uh><rl=tf10|mk;ao=7><rl=tf10|ov;ao=10>
+<tp=br;id=tf11;ti=tafel van 11><rk=ke|1;wd=45;t1b=1;t1t=10;t2b=11;t2t=11;in=uh><rl=tf11|mk;ao=7><rl=tf11|ov;ao=10>
+<tp=br;id=tf12;ti=tafel van 12><rk=ke|1;wd=55;t1b=1;t1t=10;t2b=12;t2t=12;in=uh><rl=tf12|mk;ao=7><rl=tf12|ov;ao=10>
+<tp=br;id=tf25;ti=tafel van 25><rk=ke|1;wd=60;t1b=1;t1t=10;t2b=25;t2t=25;in=uh><rl=tf25|mk;ao=7><rl=tf25|ov;ao=10>
+<tp=br;id=c23a;ti=plus tm 10><rk=pl|1;wd=25;t1b=1;t1t=9;t2b=1;t2t=9;bb=1;bt=10;in=uh><rl=bo5al|mk;ao=2><rl=bo5al|ov;ao=3><rl=bo5pl|mk;ao=3><rl=bo5pl|ov;ao=4><rl=bo6al|mk;ao=2><rl=bo6pl|ov;ao=3>
+<tp=br;id=c23b;ti=plus 1 cijfer><rk=pl|1;wd=30;t1b=1;t1t=9;t2b=1;t2t=9;bb=1;bt=19;in=uh><rl=bo5al|mk;ao=2><rl=bo5al|ov;ao=3><rl=bo5pl|mk;ao=3><rl=bo5pl|ov;ao=4><rl=bo6al|mk;ao=2><rl=bo6al|ov;ao=4><rl=bo6pl|ov;ao=4>
+<tp=br;id=c23c;ti=plus 1 cijfer met nul><rk=pl|1;wd=35;t1b=1;t1t=9;t2b=1;t2t=9;bb=1;bt=19;in=uh><rl=bo5al|mk;ao=2><rl=bo5al|ov;ao=3><rl=bo5pl|mk;ao=3><rl=bo5pl|ov;ao=4><rl=bo6al|mk;ao=2><rl=bo6al|ov;ao=3><rl=bo6pl|mk;ao=3><rl=bo6pl|ov;ao=4>
+<tp=br;id=c24a1;ti=plus 1 cijfer met 2 cijfers><rk=pl|1;wd=55;t1b=0;t1t=9;t2b=10;t2t=19;bb=1;bt=29;in=uh><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=9><rl=bo6pl|mk;ao=4><rl=bo6pl|ov;ao=9><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=7><rl=bo7pl|mk;ao=3><rl=bo7pl|ov;wd=55;ao=7><rl=bo8al|mk;ao=2><rl=bo8al|ov;ao=6><rl=bo8pl|mk;ao=2><rl=bo8pl|ov;ao=6><rl=vo1al|mk;ao=2><rl=vo1al|ov;ao=5><rl=vo1pl|mk;ao=2><rl=vo1pl|ov;ao=5>
+<tp=br;id=c24a2;ti=plus 2 cijfers met 1 cijfer><rk=pl|1;wd=55;t1b=10;t1t=19;t2b=1;t2t=9;bb=1;bt=9;in=uh><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=9><rl=bo6pl|mk;ao=4><rl=bo6pl|ov;ao=9><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=7><rl=bo7pl|mk;ao=3><rl=bo7pl|ov;wd=55;ao=7><rl=bo8al|mk;ao=2><rl=bo8al|ov;ao=6><rl=bo8pl|mk;ao=2><rl=bo8pl|ov;ao=6><rl=vo1al|mk;ao=2><rl=vo1al|ov;ao=5><rl=vo1pl|mk;ao=2><rl=vo1pl|ov;ao=5>
+<tp=br;id=c25a;ti=plus 1 cijfer met 1 of 2 nullen><rk=pl|1;wd=65;t1s=b;t2s=b;in=uh><rl=bo5al|mk;ao=4;in=uh><rl=bo6al|mk;ao=4><rl=bo6al|ov;ao=9><rl=bo6pl|mk;ao=4><rl=bo6pl|ov;ao=8><rl=bo7al|mk;ao=4><rl=bo7al|ov;ao=8><rl=bo7pl|mk;ao=4><rl=bo7pl|ov;ao=8><rl=bo8al|mk;ao=4><rl=bo8al|ov;ao=6><rl=bo8pl|mk;ao=3><rl=bo8pl|ov;ao=6><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=6><rl=vo1pl|mk;ao=3><rl=vo1pl|ov;ao=6>
+<tp=br;id=c26a;ti=plus 2 cijfers><rk=pl|1;wd=105;t1b=0;t1t=99;t2b=1;t2t=99;in=uh><rl=bo5al|mk;ao=30><rl=bo5al|ov;ao=10><rl=bo5pl|mk;ao=3><rl=bo5pl|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6pl|mk;ao=3><rl=bo6pl|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7pl|mk;ao=3><rl=bo7pl|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8pl|mk;ao=3><rl=bo8pl|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1pl|mk;ao=3><rl=vo1pl|ov;ao=10>
+<tp=br;id=c27a;ti=plus 3 cijfers><rk=pl|1;wd=155;t1b=10;t1t=999;t2b=10;t2t=999;in=pp><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=10><rl=bo5pl|mk;ao=3><rl=bo5pl|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6pl|mk;ao=3><rl=bo6pl|ov;ao=10><rl=bo7al|mk;wd=60;ao=3><rl=bo7al|ov;ao=10><rl=bo7pl|mk;ao=3><rl=bo7pl|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8pl|mk;ao=30><rl=bo8pl|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1pl|mk;ao=3><rl=vo1pl|ov;ao=10>
+<tp=br;id=c27b;ti=plus 3 cijfers, 3 getallen><rk=pl|1;wd=205;t1b=10;t1t=999;t2b=10;t2t=999;t3b=10;t3t=99;in=pp><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=10><rl=bo5pl|mk;ao=3><rl=bo5pl|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6pl|mk;ao=3><rl=bo6pl|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7pl|mk;ao=3><rl=bo7pl|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=3><rl=bo8pl|mk;ao=3><rl=bo8pl|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1pl|mk;ao=3><rl=vo1pl|ov;ao=10>
+<tp=br;id=c33a;ti=min tm 20><rk=mi|1;wd=45;t1b=0;t1t=20;t2b=0;t2t=20;bb=1;bt=20;in=uh><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=10><rl=bo5mi|mk;ao=3><rl=bo5mi|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6mi|mk;ao=3><rl=bo6mi|ov;ao=10><rl=bo7al|mk;wd=60;ao=10><rl=bo7al|ov;ao=10><rl=bo7mi|mk;ao=3><rl=bo7mi|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8mi|mk;ao=3><rl=bo8mi|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1mi|mk;ao=3><rl=vo1mi|ov;ao=10>
+<tp=br;id=c34a;ti=min 2 cijfers met 1 cijfer><rk=mi|1;wd=65;t1b=10;t1t=19;t2b=1;t2t=9;bb=1;bt=29;in=uh><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=10><rl=bo5mi|mk;ao=3><rl=bo5mi|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6mi|mk;ao=3><rl=bo6mi|ov;ao=10><rl=bo7al|mk;wd=60;ao=10><rl=bo7al|ov;wd=65;ao=10><rl=bo7mi|mk;wd=60;ao=10><rl=bo7mi|ov;wd=65;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8mi|mk;ao=3><rl=bo8mi|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1mi|mk;ao=3><rl=vo1mi|ov;ao=10>
+<tp=br;id=c35a;ti=min 1 cijfer gevolgd door nullen met 1 cijfer><rk=mi|1;wd=75;t1s=b;t2b=0;t2t=9;in=uh><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=10><rl=bo5mi|mk;ao=3><rl=bo5mi|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6mi|mk;ao=3><rl=bo6mi|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7mi|mk;ao=3><rl=bo7mi|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8mi|mk;ao=3><rl=bo8mi|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1mi|mk;ao=3><rl=vo1mi|ov;ao=10>
+<tp=br;id=c36a;ti=min 2 cijfers positief><rk=mi|1;wd=155;t1b=1;t1t=99;t2b=1;t2t=99;bb=0;bt=29;in=uh><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6mi|mk;ao=3><rl=bo6mi|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7mi|mk;ao=3><rl=bo7mi|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8mi|mk;ao=3><rl=bo8mi|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1mi|mk;ao=3><rl=vo1mi|ov;ao=10>
+<tp=br;id=c37a;ti=min 3 cijfers positief><rk=mi|1;wd=255;t1b=100;t1t=9999;t2b=100;t2t=9999;bb=0;bt=9999;in=pp><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=10><rl=bo5mi|mk;ao=3><rl=bo5mi|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6mi|mk;ao=3><rl=bo6mi|ov;ao=10p><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7mi|mk;ao=3><rl=bo7mi|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8mi|mk;ao=3><rl=bo8mi|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1mi|mk;ao=3><rl=vo1mi|ov;ao=10>
+<tp=br;id=c43a;ti=keer 1 cijfer><rk=ke|1;wd=55;t1b=2;t1t=9;t2b=2;t2t=9;bb=0;bt=29;in=uh><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=10><rl=bo5ke|mk;ao=3><rl=bo5ke|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6ke|mk;ao=3><rl=bo6ke|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7ke|mk;ao=3><rl=bo7ke|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8ke|mk;ao=3><rl=bo8ke|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1ke|mk;ao=6><rl=vo1ke|ov;ao=8>
+<tp=br;id=c43b;ti=keer 1 cijfer met 0><rk=ke|1;wd=65;t1b=0;t1t=9;t2b=0;t2t=9;bb=0;bt=29;in=uh><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=10><rl=bo5ke|mk;ao=3><rl=bo5ke|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6ke|mk;ao=3><rl=bo6ke|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7ke|mk;ao=3><rl=bo7ke|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8ke|mk;ao=3><rl=bo8ke|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1ke|mk;ao=3><rl=vo1ke|ov;ao=10>
+<tp=br;id=c45a;ti=keer 1 cijfer gevolgd door nullen><rk=ke|1;wd=85;t1s=b;t2s=b;in=uh><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=10><rl=bo5ke|mk;ao=3><rl=bo5ke|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6ke|mk;ao=3><rl=bo6ke|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7ke|mk;ao=3><rl=bo7ke|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8ke|mk;ao=3><rl=bo8ke|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1ke|mk;ao=3><rl=vo1ke|ov;ao=10>
+<tp=br;id=c46a;ti=keer 3 cijfers maal 1 cijfer><rk=ke|1;wd=125;t1b=10;t1t=999;t2b=0;t2t=9;in=pp><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=10><rl=bo5ke|mk;ao=3><rl=bo5ke|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6ke|mk;ao=3><rl=bo6ke|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7ke|mk;ao=3><rl=bo7ke|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8ke|mk;ao=3><rl=bo8ke|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1ke|mk;ao=3><rl=vo1ke|ov;ao=10>
+<tp=br;id=c47a1;ti=keer 2 cijfers><rk=ke|1;wd=155;t1b=10;t1t=99;t2b=10;t2t=99;in=pp><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=10><rl=bo5ke|mk;ao=3><rl=bo5ke|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6ke|mk;ao=3><rl=bo6ke|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7ke|mk;ao=3><rl=bo7ke|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8ke|mk;ao=3><rl=bo8ke|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1ke|mk;ao=3><rl=vo1ke|ov;ao=10>
+<tp=br;id=c47a2;ti=keer tot 2,3 cijfers><rk=ke|1;wd=155;t1b=10;t1t=999;t2b=10;t2t=999;in=pp><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=8><rl=bo5ke|mk;ao=3><rl=bo5ke|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=9><rl=bo6ke|mk;ao=3><rl=bo6ke|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7ke|mk;ao=3><rl=bo7ke|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8ke|mk;ao=3><rl=bo8ke|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1ke|mk;ao=3><rl=vo1ke|ov;ao=10>
+<tp=br;id=c47a3;ti=keer tot 3,4 cijfers><rk=ke|1;wd=155;t1b=100;t1t=1999;t2b=100;t2t=1999;kb=90;in=pp><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=6><rl=bo5ke|mk;ao=3><rl=bo5ke|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=7><rl=bo6ke|mk;ao=3><rl=bo6ke|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=8><rl=bo7ke|mk;ao=3><rl=bo7ke|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=9><rl=bo8ke|mk;ao=3><rl=bo8ke|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1ke|mk;ao=3><rl=vo1ke|ov;ao=10>
+<tp=br;id=c55a;ti=delen 3 cijfers door 1 cijfer><rk=de|1;wd=170;t1b=34;t1t=99;t2b=3;t2t=9><rl=bo5al|mk;ao=3;in=pp><rl=bo5al|ov;ao=10><rl=bo5de|mk;ao=3><rl=bo5de|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6de|mk;ao=3><rl=bo6de|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7de|mk;ao=3><rl=bo7de|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8de|mk;ao=3><rl=bo8de|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1de|mk;ao=3><rl=vo1de|ov;ao=10>
+<tp=br;id=c55b;ti=delen 4 cijfers door 1 cijfer><rk=de|1;wd=190;t1b=334;t1t=999;t2b=3;t2t=9;in=pp><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=10><rl=bo5de|mk;ao=3><rl=bo5de|ov;ao=10><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6de|mk;ao=3><rl=bo6de|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7de|mk;ao=3><rl=bo7de|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8de|mk;ao=3><rl=bo8de|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1de|mk;ao=3><rl=vo1de|ov;ao=10>
+<tp=br;id=c57a;ti=delen 5 cijfers door 2 cijfers><rk=de|1;wd=230;t1b=3334;t1t=9999;t2b=20;t2t=99;in=pp><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6de|mk;ao=3><rl=bo6de|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7de|mk;ao=3><rl=bo7de|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8de|mk;ao=3><rl=bo8de|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1de|mk;ao=3><rl=vo1de|ov;ao=10>
+<tp=br;id=c57b;ti=delen 5 cijfers door 3 cijfers><rk=de|1;wd=255;t1b=34;t1t=99;t2b=210;t2t=999;in=pp><rl=bo6al|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6de|mk;ao=3><rl=bo6de|ov;ao=10><rl=bo7al|mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7de|mk;ao=3><rl=bo7de|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8de|mk;ao=3><rl=bo8de|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1de|mk;ao=3><rl=vo1de|ov;ao=10>
+<tp=br;id=c63a;ti=keer getal met decimalen met cijfer gevolgd door nullen 1><rk=ke|1;wd=175;t1b=1000;t1t=9999;t2b=1;t2t=3;t3b=1;t3t=3;in=uh><rl=bo5al|mk;ao=3><rl=bo5al|ov;ao=10><rl=bo5ke|mk;ao=3><rl=bo5ke|ov;ao=10><rl=bo6al|ov;ao=10><rl=bo6ke|ov;ao=10><rl=bo7al|	mk;ao=3><rl=bo7al|ov;ao=10><rl=bo7ke|ov;ao=10><rl=bo8al|ov;ao=10><rl=bo8ke|ov;ao=10><rl=vo1al|ov;ao=10><rl=vo1ke|ov;ao=10>
+<tp=br;id=c65a;ti=afronden op aantal decimalen><rk=mv|2;wd=155;t1b=1;t1t=4;in=uh><rl=vo1al|ov;ao=15><rl=vomvaf|ov;ao=10>
+<tp=br;id=c66a1;ti=plus met gelijke decimalen 2 getallen><rk=pl|2;wd=220;t1s=d;t1b=1;t1t=3;in=uh><rl=bo6al|ov;ao=10><rl=bo6pl|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7pl|ov;ao=10><rl=bo8al|ov;ao=10><rl=bo8pl|ov;ao=10><rl=vo1al|ov;ao=8><rl=vo1pl|ov;ao=8>
+<tp=br;id=c66a2;ti=plus met decimalen  2 getallen><rk=pl|1;wd=235;t1s=d;t1b=1;t1t=4;t2s=d;t2b=1;t2t=4;in=uh><rl=bo6al|ov;ao=10><rl=bo6pl|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7pl|ov;ao=10><rl=bo8al|ov;ao=10><rl=bo8pl|ov;ao=10><rl=vo1al|ov;ao=8><rl=vo1pl|ov;ao=8>
+<tp=br;id=c66a3;ti=plus met decimalen  3 getallen><rk=pl|1;wd=250;t1s=d;t1b=1;t1t=4;t2s=d;t2b=1;t2t=4;t3s=d;t3b=1;t3t=4;in=pp><rl=bo6al|ov;ao=10><rl=bo6pl|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7pl|ov;ao=10><rl=bo8al|ov;ao=10><rl=bo8pl|ov;ao=10><rl=vo1al|ov;ao=8><rl=vo1pl|ov;ao=8>
+<tp=br;id=c66a4;ti=plus met decimalen  4 getallen><rk=pl|1;wd=270;t1b=1;t1s=d;t1t=4;t2s=d;t2b=1;t2t=4;t3s=d;t3b=1;t3t=4;t4s=d;t4b=1;t4t=4;in=pp><rl=bo6al|ov;ao=10><rl=bo6pl|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7pl|ov;ao=10><rl=bo8al|ov;ao=10><rl=bo8pl|ov;ao=10><rl=vo1al|ov;ao=8><rl=vo1pl|ov;ao=8>
+<tp=br;id=c67a;ti=min met decimalen><rk=mi|2;wd=245;t1b=0;t1s=d;t1t=4;t2b=0;t2s=d;t2t=4;in=uh><rl=bo6al|ov;ao=10><rl=bo6pl|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7pl|ov;ao=10><rl=bo8al|ov;ao=10><rl=bo8pl|ov;ao=10><rl=vo1al|ov;ao=8><rl=vo1pl|ov;ao=8>
+<tp=br;id=c68a;ti=keer met decimalen><rk=ke|1;wd=245;t1b=0;t1s=d;t1t=2;t2b=0;t2s=d;t2t=2;in=pp><rl=bo6al|ov;ao=10><rl=bo6pl|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7pl|ov;ao=10><rl=bo8al|ov;ao=10><rl=bo8pl|ov;ao=10><rl=vo1al|ov;ao=8><rl=vo1pl|ov;ao=8>
+<tp=br;id=c69a;ti=delen getal met decimalen door getal van 1 cijfer><rk=de|1;wd=245;t1b=0;t1s=d;t1t=3;t2b=0;t2t=50;in=pp><rl=bo6al|ov;ao=10><rl=bo6pl|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7pl|ov;ao=10><rl=bo8al|ov;ao=10><rl=bo8pl|ov;ao=10><rl=vo1al|ov;ao=8><rl=vo1pl|ov;ao=8>
+<tp=br;id=c76a1;ti=breuken: vereenvoudig zoveel mogelijk><rk=br|1;wd=180;t1b=1;t1t=4;t2b=3;t2t=7;t3b=2;t3t=5;kb=90;in=uh><rl=bo5al|mk;ao=10><rl=bo5br|mk;ao=3><rl=bo6al|ov;ao=10><rl=bo6br|mk;ao=3><rl=bo7br|mk;ao=3><rl=bo8al|mk;ao=3><rl=bo8br|mk;ao=3><rl=vo1al|mk;ao=3><rl=vo1br|mk;ao=3>
+<tp=br;id=c76a2;ti=breuken: geef ontbrekende teller><rk=br|2;wd=190;t1b=3;t1t=20;t2b=1;t2t=7;t3b=2;t3t=4;t4b=2;t4t=4;kb=90;in=uh><rl=bo6al|ov;ao=10><rl=bo6br|mk;ao=3><rl=bo6br|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7br|mk;ao=3><rl=bo7br|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8br|mk;ao=3><rl=bo8br|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1br|mk;ao=3><rl=vo1br|ov;ao=10>
+<tp=br;id=c76a3;ti=breuken: geef kommagetal als breuk><rk=br|3;wd=205;t1b=1;t1t=3;t2b=2;t2t=9;kb=90;in=uh><rl=bo6al|ov;ao=10><rl=bo6br|mk;ao=3><rl=bo6br|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7br|mk;ao=3><rl=bo7br|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8br|mk;ao=3><rl=bo8br|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1br|mk;ao=3><rl=vo1br|ov;ao=10>
+<tp=br;id=c78a1;ti=breuk omzetten in een gemengde breuk><rk=br|4;wd=200;t1b=1;t1t=15;t2b=3;t2t=8;kb=90;in=pp><rl=bo6al|ov;ao=10><rl=bo6br|mk;ao=3><rl=bo6br|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7br|mk;ao=3><rl=bo7br|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8br|mk;ao=3><rl=bo8br|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1br|mk;ao=3><rl=vo1br|ov;ao=10>
+<tp=br;id=c78a2;ti=breuk omzetten in een enkelvoudige breuk><rk=br|5;wd=200;t1b=1;t1t=4;t2b=3;t2t=7;t3b=2;t3t=5;kb=90;in=pp><rl=bo6al|ov;ao=10><rl=bo6br|mk;ao=3><rl=bo6br|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7br|mk;ao=3><rl=bo7br|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8br|mk;ao=3><rl=bo8br|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1br|mk;ao=3><rl=vo1br|ov;ao=10>
+<tp=br;id=c81a1;ti=maak breuken gelijknamig><rk=br|6;wd=180;t1b=1;t1t=4;t2b=3;t2t=7;t3b=2;t3t=7;t4b=2;t4t=9;kb=110;in=pp><rl=bo6al|mk;ao=10><rl=bo6br|mk;ao=3><rl=bo7br|mk;ao=3><rl=bo8al|mk;ao=3><rl=bo8br|mk;ao=3><rl=vo1al|mk;ao=3><rl=vo1br|mk;ao=3>
+<tp=br;id=c81a2;ti=welke breuk is het grootste><rk=br|7;wd=190;t1b=2;t1t=4;t2b=3;t2t=7;t3b=3;t3t=7;t4b=6;t4t=12;kb=90;aa=2;in=pp><rl=bo6al|mk;ao=10><rl=bo6br|mk;ao=3><rl=bo7br|mk;ao=3><rl=bo8al|mk;ao=3><rl=bo8br|mk;ao=3><rl=vo1al|mk;ao=3><rl=vo1br|mk;ao=3>
+<tp=br;id=c82a1;ti=plus breuken><rk=br|8;wd=185;t1b=1;t1t=4;t2b=3;t2t=7;t3b=2;t3t=7;t4b=2;t4t=7;kb=90;in=pp><rl=bo6al|ov;ao=10><rl=bo6br|mk;ao=3><rl=bo6br|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7br|mk;ao=3><rl=bo7br|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8br|mk;ao=3><rl=bo8br|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1br|mk;ao=3><rl=vo1br|ov;ao=10>
+<tp=br;id=c82a2;ti=min breuken><rk=br|9;wd=195;t1b=3;t1t=9;t2b=3;t2t=7;t3b=4;t3t=7;t4b=4;t4t=9;kb=90;in=pp><rl=bo6al|ov;ao=10><rl=bo6br|mk;ao=3><rl=bo6br|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7br|mk;ao=3><rl=bo7br|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8br|mk;ao=3><rl=bo8br|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1br|mk;ao=3><rl=vo1br|ov;ao=10>
+<tp=br;id=c83a;ti=keer breuken><rk=br|a;wd=215;t1b=1;t1t=4;t2b=3;t2t=7;t3b=2;t3t=6;t4b=2;t4t=6;kb=90;in=pp><rl=bo6al|ov;ao=10><rl=bo6br|mk;ao=3><rl=bo6br|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7br|mk;ao=3><rl=bo7br|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8br|mk;ao=3><rl=bo8br|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1br|mk;ao=3><rl=vo1br|ov;ao=10>
+<tp=br;id=c84a;ti=delen breuken><rk=br|b;wd=225;t1b=1;t1t=4;t2b=3;t2t=7;t3b=2;t3t=6;t4b=2;t4t=6;kb=90;in=pp><rl=bo6al|ov;ao=10><rl=bo6br|mk;ao=3><rl=bo6br|ov;ao=10><rl=bo7al|ov;ao=10><rl=bo7br|mk;ao=3><rl=bo7br|ov;ao=10><rl=bo8al|mk;ao=3><rl=bo8al|ov;ao=10><rl=bo8br|mk;ao=3><rl=bo8br|ov;ao=10><rl=vo1al|mk;ao=3><rl=vo1al|ov;ao=10><rl=vo1br|mk;ao=3><rl=vo1br|ov;ao=10>
+<tp=br;id=brv1;ti=breuken :  + -,kleine getallen positief><rk=br|c;wd=215;t1b=1;t1t=2;t2b=0;t2t=2;t3b=0;t3t=2;t4b=1;t4t=3;t5b=1;t5t=5;t6b=1;t6t=3;t7b=2;t7t=3;kb=90;in=pp><rl=vobrxl|ov;ao=10>
+<tp=br;id=brv2;ti=breuken : + - * kleine getallen positief><rk=br|c;wd=225;t1b=1;t1t=4;t2b=0;t2t=2;t3b=0;t3t=2;t4b=1;t4t=3;t5b=1;t5t=5;t6b=1;t6t=3;t7b=2;t7t=3;kb=90;in=pp><rl=vobrxl|ov;ao=10>
+<tp=br;id=brv2;ti=breuken : + - * /  positief><rk=br|c;wd=230;t1b=1;t1t=4;t2b=0;t2t=4;t3b=0;t3t=4;t4b=1;t4t=3;t5b=1;t5t=5;t6b=1;t6t=6;t7b=2;t7t=6;kb=90;in=pp><rl=vobrxl|ov;ao=10>
+<tp=br;id=c92a1;ti=lengte maten 1 stap><rk=mv|3;wd=180;t1b=100;t1t=1000;t2b=1;t2t=3;di=1;sp=1;kb=90;ms0=mm;ms1=cm;ms2=dm;ms3=m;ms4=dam;ms5=hm;ms6=km;in=uh><rl=voms1|mk;ao=7><rl=voms1|ov;ao=10><rl=voms2|mk;ao=2><rl=voms2|ov;ao=4>
+<tp=br;id=c92a2;ti=lengte maten 2 stappen><rk=mv|3;wd=190;t1b=100;t1t=1000;t2b=1;t2t=3;di=1;sp=2;kb=90;ms0=mm;ms1=cm;ms2=dm;ms3=m;ms4=dam;ms5=hm;ms6=km;in=uh><rl=voms1|mk;ao=7><rl=voms1|ov;ao=10><rl=voms2|mk;ao=3><rl=voms2|ov;ao=6>
+<tp=br;id=c92a3;ti=lengte maten 3 stappen><rk=mv|3;wd=200;t1b=100;t1t=1000;t2b=1;t2t=3;di=1;sp=3;kb=90;ms0=mm;ms1=cm;ms2=dm;ms3=m;ms4=dam;ms5=hm;ms6=km;in=uh><rl=voms2|mk;ao=6><rl=voms2|ov;ao=8>
+<tp=br;id=c92a4;ti=lengte maten 4 stappen><rk=mv|3;wd=230;t1b=100;t1t=1000;t2b=1;t2t=3;di=1;sp=4;kb=90;ms0=mm;ms1=cm;ms2=dm;ms3=m;ms4=dam;ms5=hm;ms6=km;in=uh><rl=voms2|mk;ao=8><rl=voms2|ov;ao=10>
+<tp=br;id=c94a1;ti=oppervlakte maten 1 stap><rk=mv|3;wd=230;t1b=100;t1t=1000;t2b=1;t2t=3;di=2;sp=1;kb=90;ms0=mm;ms1=cm;ms2=dm;ms3=m;ms4=dam;ms5=hm;ms6=km;in=uh><rl=voms3|mk;ao=6><rl=voms3|ov;ao=10>
+<tp=br;id=c94a2;ti=oppervlakte maten 2 stappen><rk=mv|3;wd=230;t1b=100;t1t=1000;t2b=1;t2t=3;di=2;sp=2;kb=90;ms0=mm;ms1=cm;ms2=dm;ms3=m;ms4=dam;ms5=hm;ms6=km;in=uh><rl=voms3|mk;ao=6><rl=voms3|ov;ao=8><rl=voms4|mk;ao=7><rl=voms4|ov;ao=10>
+<tp=br;id=c94a3;ti=oppervlakte maten 3 stappen><rk=mv|3;wd=230;t1b=100;t1t=1000;t2b=1;t2t=3;di=2;sp=3;kb=90;ms0=mm;ms1=cm;ms2=dm;ms3=m;ms4=dam;ms5=hm;ms6=km;in=uh><rl=voms4|mk;ao=7><rl=voms4|ov;ao=10>
+<tp=br;id=c96a1;ti=inhoud maten 1 stap><rk=mv|3;wd=230;t1b=100;t1t=1000;t2b=1;t2t=3;di=3;sp=1;kb=90;ms0=mm;ms1=cm;ms2=dm;ms3=m;ms4=dam;ms5=hm;ms6=km;in=uh><rl=voms5|mk;ao=7><rl=voms5|ov;ao=10>
+<tp=br;id=c96a2;ti=inhoud maten  2 stappen><rk=mv|3;wd=230;t1b=100;t1t=1000;t2b=1;t2t=3;di=3;sp=2;kb=90;ms0=mm;ms1=cm;ms2=dm;ms3=m;ms4=dam;ms5=hm;ms6=km;in=uh><rl=voms6|mk;ao=7><rl=voms6|ov;ao=10>
+<tp=br;id=c96b;ti=inhoudsmaten vloeistoffen><rk=mv|3;wd=230;t1b=100;t1t=1000;t2b=1;t2t=3;di=1;sp=3;kb=90;ms0=ml;ms1=dl;ms2=l;ms3=dal;ms4=hl;ms5=kl;in=uh><rl=voms7|mk;ao=7><rl=voms7|ov;ao=10>
+<tp=br;id=c98a;ti=gewichtsmaten><rk=mv|3;wd=230;t1b=100;t1t=1000;t2b=1;t2t=3;di=1;sp=3;kb=90;ms0=mg;ms1=cg;ms2=dg;ms3=g;ms4=dag;ms5=hg;ms5=kg;in=uh><rl=voms8|mk;ao=7><rl=voms8|ov;ao=10>
+<tp=br;id=c610a1;ti=getal naar percentages><rk=pc|1;wd=180;t1b=1;t1t=110;in=pp;md=g><rl=vopc1|ov;ao=20>
+<tp=br;id=c610a2;ti=percentage van><rk=pc|1;wd=190;t1b=1;t1t=10;t2b=1;t2t=8;t3=10;in=pp;md=v><rl=vopc1|ov;ao=20>
+<tp=br;id=c610a3;ti=percentage is><rk=pc|1;wd=200;t1b=1;t1t=10;t2b=1;t2t=8;t3=10;in=pp;md=b><rl=vopc1|ov;ao=20>
+<tp=br;id=c610a4;ti=totaal is><rk=pc|1;wd=210;t1b=1;t1t=10;t2b=1;t2t=8;t3=10;in=pp;md=t><rl=vopc1|ov;ao=20>
+<tp=br;id=c610a5;ti=percentage van><rk=pc|1;wd=200;t1b=1;t1t=22;t2b=1;t2t=8;t3=2;in=pp;md=v><rl=vopc2|ov;ao=20>
+<tp=br;id=c610a6;ti=percentage is><rk=pc|1;wd=210;t1b=1;t1t=22;t2b=1;t2t=8;t3=2;in=pp;md=b><rl=vopc2|ov;ao=20>
+<tp=br;id=c610a7;ti=totaal is><rk=pc|1;wd=230;t1b=1;t1t=22;t2b=1;t2t=8;t3=2;in=pp;md=t><rl=vopc2|ov;ao=20>
+<tp=br;id=c710a5;ti=percentages als breuken>
+<tp=br;id=mv001;ti=kwadraten 1 - 15><rk=mv|1;wd=155;t1b=1;t1t=15;t2b=2;t2t=2;in=pp><rl=vomvkw|ov;ao=20>
+<tp=br;id=go001;ti=zijdes benoemen><rk=go|1;wd=230;t1b=1;t1t=9;t2b=1;t2t=2;t3b=1;t3t=3;aa=3;kb=90;in=uh><rl=vogo1|mk;ao=20>
+<tp=br;id=go002;ti=tan bereken><rk=go|2;wd=230;t1b=1;t1t=9;t2b=1;t2t=2;t3b=5;t3t=15;t4b=5;t4t=15;aa=3;md=tg;kb=90;to=&1 en &2  (plaatje geeft alleen juiste plaats van de hoeken);in=rk><rl=vogo2|ov;ao=5>
+<tp=br;id=go003;ti=hoek bereken (tan)><rk=go|2;wd=245;t1b=1;t1t=9;t2b=1;t2t=2;t3b=5;t3t=15;t4b=5;t4t=15;aa=3;md=th;kb=90;to=&1 en &2  (plaatje geeft alleen juiste plaats van de hoeken);in=rk><rl=vogo2|ov;ao=10><rl=vogo5|ov;ao=10><rl=vogo10|ov;ao=10>
+<tp=br;id=go004;ti=sin bereken><rk=go|2;wd=230;t1b=1;t1t=9;t2b=1;t2t=2;t3b=5;t3t=15;t4b=5;t4t=15;aa=3;md=sg;kb=90;to=&1 en &2  (plaatje geeft alleen juiste plaats van de hoeken);in=rk><rl=vogo3|ov;ao=5>
+<tp=br;id=go005;ti=hoek bereken (sin)><rk=go|2;wd=245;t1b=1;t1t=9;t2b=1;t2t=2;t3b=5;t3t=15;t4b=5;t4t=15;aa=3;md=sh;kb=90;to=&1 en &2  (plaatje geeft alleen juiste plaats van de hoeken);in=rk><rl=vogo3|ov;ao=10><rl=vogo5|ov;ao=10><rl=vogo10|ov;ao=10>
+<tp=br;id=go006;ti=cos bereken><rk=go|2;wd=230;t1b=1;t1t=9;t2b=1;t2t=2;t3b=5;t3t=15;t4b=5;t4t=15;aa=3;md=cg;kb=90;to=&1 en &2  (plaatje geeft alleen juiste plaats van de hoeken);in=rk><rl=vogo4|ov;ao=5>
+<tp=br;id=go007;ti=hoek bereken (cos)><rk=go|2;wd=245;t1b=1;t1t=9;t2b=1;t2t=2;t3b=5;t3t=15;t4b=5;t4t=15;aa=3;md=ch;kb=90;to=&1 en &2  (plaatje geeft alleen juiste plaats van de hoeken);in=rk><rl=vogo4|ov;ao=10><rl=vogo5|ov;ao=10><rl=vogo10|ov;ao=10>
+<tp=br;id=go008;ti=zijde bereken (tan)><rk=go|3;wd=245;t1b=1;t1t=9;t2b=1;t2t=2;t3b=1;t3t=90;t4b=1;t4t=2;t5b=5;t5t=15;aa=3;md=t;kb=90;to=&1 en &2  (plaatje geeft alleen juiste plaats van de hoeken);in=rk><rl=vogo6|ov;ao=10><rl=vogo9|ov;ao=10><rl=vogo10|ov;ao=10>
+<tp=br;id=go009;ti=zijde bereken (sin)><rk=go|3;wd=245;t1b=1;t1t=9;t2b=1;t2t=2;t3b=1;t3t=90;t4b=1;t4t=2;t5b=5;t5t=15;aa=3;md=s;kb=90;to=&1 en &2  (plaatje geeft alleen juiste plaats van de hoeken);in=rk><rl=vogo7|ov;ao=10><rl=vogo9|ov;ao=10><rl=vogo10|ov;ao=10>
+<tp=br;id=go010;ti=zijde bereken (cos)><rk=go|3;wd=245;t1b=1;t1t=9;t2b=1;t2t=2;t3b=1;t3t=90;t4b=1;t4t=2;t5b=5;t5t=15;aa=3;md=c;kb=90;to=&1 en &2  (plaatje geeft alleen juiste plaats van de hoeken);in=rk><rl=vogo8|ov;ao=10><rl=vogo9|ov;ao=10><rl=vogo10|ov;ao=10>
+<tp=br;id=go020;ti=pythagoras schuine zijde><rk=go|4;wd=245;t1b=1;t1t=9;t2b=1;t2t=3;t3b=5;t3t=10;t4b=5;t4t=10;aa=3;kb=90;to=&1 en &2  (plaatje geeft alleen juiste plaats van de hoeken);in=rk><rl=vogo20|ov;ao=10;>
+<tp=br;id=mk001;ti=rechthoek><rk=mk|1;wd=150;t1b=1;t1t=2;t2b=1;t2t=8;t3b=5;t3t=15;aa=3;kb=90;to=&1 en &2;in=rk><rl=vomk1|ov;ao=10;>
+<tp=br;id=mk002;ti=driehoek><rk=mk|2;wd=175;t1b=1;t1t=2;t2b=1;t2t=6;t3b=1;t3t=15;aa=3;kb=90;to=&1 en &2 ;in=rk><rl=vomk2|ov;ao=10;>
+<tp=br;id=mk003;ti=paralellogram><rk=mk|3;wd=175;t1b=1;t1t=2;t2b=1;t2t=4;t3b=1;t3t=15;aa=3;kb=90;to=&1, &2 en &3;in=rk><rl=vomk3|ov;ao=10;>
+<tp=br;id=mk004;ti=trapezium><rk=mk|4;wd=175;t1b=1;t1t=2;t2b=1;t2t=4;t3b=1;t3t=15;aa=3;kb=90;to=&1, &2, &3 en &4;in=rk><rl=vomk4|ov;ao=10;>
+<tp=ev;id=stgr;ti=welkom ;vv=ofrk;tx=Goed dat je gaat oefenen. We beginnen gemakkelijk.  Als het goed gaat dan wordt het moeilijker>
+<tp=ev;id=ofrk;ti=Rekenen oefenen;vv=some;tx=Rekenen oefenen dat doe je zonder rekenmachine of telefoon>
+<tp=ev;id=some;ti=Alleen oefenen;vv=jouw;tx=Als je facebook / twitter of andere sociale media uitzet gaat het veel beter>
+<tp=ev;id=jouw;ti=Inzicht en niveau;tx=Op jouw pagina kun je de snelheid (kleur sterren) instellen en krijg nog meer scores>
+<tp=ev;id=m20;ti=Lekker bezig;tx=Op jouw pagina kun je de snelheid (kleur sterren) instellen en krijg nog meer scores>
+<tp=ev;id=alkl;ti=Topper;tx=De hele oefening is klaar. Wil je verder wilt. Kies op jouw pagina hogere ster en je kunt nog !even verder of kies deze oefening of kies een volgende oefening>
+<tp=ev;id=wtah;ti=Wat is er aan de hand?><tx=Vind je het moeilijk worden of ben ook met andere dingen bezig.>
+<tp=ev;id=mkuh;ti=bereken uit het hoofd en kies de knop met het juiste antwoord>
+<tp=ev;id=ovuh;ti=bereken uit het hoofd en geef het juiste antwoord in>
+<tp=ev;id=mkpp;ti=bereken op papier en kies de knop met het juiste antwoord>
+<tp=ev;id=ovpp;ti=bereken op papier en geef het juiste antwoord in>
+<tp=ev;id=mkrk;ti=bereken met rekenmachine en kies de knop met het juiste antwoord>
+<tp=ev;id=ovrk;ti=bereken met rekenmachine  en geef het juiste antwoord in>

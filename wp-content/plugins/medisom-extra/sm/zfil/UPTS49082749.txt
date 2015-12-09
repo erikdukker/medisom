@@ -1,0 +1,10 @@
+<tp=pa;id=mk><_vr=mk;as=10;aa=5;wc=-7>
+<tp=pa;id=ov><_vr=ov;as=10>
+<tp=co;id=test;ti=test>
+<tp=br;id=test;ti=plus breuken><rk=test;wd=185;t1b=1;t1t=4;t2b=3;t2t=7;t3b=2;t3t=7;t4b=2;t4t=7;kb=90;in=pp><rl=test|ov;ao=10>	
+<tp=ev;id=mkuh;ti=bereken uit het hoofd en kies de knop met het juiste antwoord>
+<tp=ev;id=ovuh;ti=bereken uit het hoofd en geef het juiste antwoord in>
+<tp=ev;id=mkpp;ti=bereken op papier en kies de knop met het juiste antwoord>
+<tp=ev;id=ovpp;ti=bereken op papier en geef het juiste antwoord in>
+<tp=ev;id=mkrk;ti=bereken met rekenmachine en kies de knop met het juiste antwoord>
+<tp=ev;id=ovrk;ti=bereken met rekenmachine  en geef het juiste antwoord in>

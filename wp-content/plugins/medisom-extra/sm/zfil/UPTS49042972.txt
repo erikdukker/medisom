@@ -1,0 +1,4 @@
+<tp=pa;id=mk><_vr=mk;as=10;aa=5;wc=-7>
+<tp=pa;id=ov><_vr=ov;as=10>
+<tp=co;id=test;ti=test>
+<tp=br;id=test;ti=plus breuken><rk=test;wd=185;t1b=1;t1t=4;t2b=3;t2t=7;t3b=2;t3t=7;t4b=2;t4t=7;kb=90;in=pp><rl=test|ov;ao=10>	

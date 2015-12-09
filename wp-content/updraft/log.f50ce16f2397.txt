@@ -1,0 +1,38 @@
+0000.007 () Opened log file at time: Tue, 15 Sep 2015 12:47:00 +0000 on http://medisom.nl
+0000.007 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.9 WP: 4.3 PHP: 5.6.12 (Linux www61.totaalholding.nl 2.6.32-604.16.2.lve1.3.54.el6.x86_64 #1 SMP Mon Jul 27 11:32:29 EDT 2015 x86_64) MySQL: 5.6.23 Server: Apache/2.4.16 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 8M | 9.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.007 () Free space on disk containing Updraft's temporary directory: 1192330.8 Mb
+0000.007 () Restore job started. Entities to restore: plugins, themes, uploads, others
+0000.051 () Entity: plugins
+0000.051 () restore_backup(backup_file=backup_2015-09-08-1854_medisom_fd528e2efec1-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:56:"/home/eduknl1q/public_html/medisom.nl/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0000.051 () Backup uitpakken... (backup_2015-09-08-1854_medisom_fd528e2efec1-plugins.zip, 12.4 Mb)
+0001.754 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.754 () Moving old data: can potentially use wp_filesystem method / -old
+0001.754 () Oude gegevens weghalen...
+0001.880 () Top-level entities being moved: index.php, updraftplus
+0002.009 () Uitgepakte backup op zijn plaats zetten...
+0002.789 () Top-level entities being moved: debug-bar, medisom-extra, wordpress-seo, debug-bar-slow-actions, index.php, login-with-ajax, log-viewer, updraftplus, bbpress, wp-super-cache, duplicate-post, better-wp-security, nospamnx, only-tweet-like-share-and-google-1
+0002.801 () Rommel opruimen...
+0002.802 () Entity: themes
+0002.802 () restore_backup(backup_file=backup_2015-09-08-1854_medisom_fd528e2efec1-themes.zip, type=themes, info=a:2:{s:4:"path";s:55:"/home/eduknl1q/public_html/medisom.nl/wp-content/themes";s:11:"description";s:7:"Thema's";}, last_one=)
+0002.802 () Backup uitpakken... (backup_2015-09-08-1854_medisom_fd528e2efec1-themes.zip, 14.5 Mb)
+0004.247 () Moving old data: filesystem method / updraft_dir is potentially possible
+0004.247 () Moving old data: can potentially use wp_filesystem method / -old
+0004.247 () Oude gegevens weghalen...
+0004.358 () Top-level entities being moved: enfold, twentyfifteen, index.php
+0004.362 () Uitgepakte backup op zijn plaats zetten...
+0004.568 () Top-level entities being moved: enfold, index.php, twentyfourteen
+0004.641 () Rommel opruimen...
+0004.642 () Entity: uploads
+0004.642 () restore_backup(backup_file=backup_2015-09-08-1854_medisom_fd528e2efec1-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:56:"/home/eduknl1q/public_html/medisom.nl/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0004.642 () Backup uitpakken... (backup_2015-09-08-1854_medisom_fd528e2efec1-uploads.zip, 20.5 Mb)
+0005.883 () Moving old data: filesystem method / updraft_dir is potentially possible
+0005.884 () Moving old data: can potentially use wp_filesystem method / -old
+0005.884 () Oude gegevens weghalen...
+0005.885 () Uitgepakte backup op zijn plaats zetten...
+0005.953 () Rommel opruimen...
+0005.953 () Entity: others
+0005.953 () restore_backup(backup_file=backup_2015-09-08-1854_medisom_fd528e2efec1-others.zip, type=others, info=a:2:{s:4:"path";s:48:"/home/eduknl1q/public_html/medisom.nl/wp-content";s:11:"description";s:6:"Overig";}, last_one=1)
+0005.953 () Backup uitpakken... (backup_2015-09-08-1854_medisom_fd528e2efec1-others.zip, 0.5 Mb)
+0006.097 () Rommel opruimen...
+0006.100 () Restore successful!
+0006.101 () Restore successful

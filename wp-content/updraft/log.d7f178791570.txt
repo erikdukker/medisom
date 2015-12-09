@@ -1,0 +1,12 @@
+0000.005 () Opened log file at time: Tue, 15 Sep 2015 13:06:19 +0000 on http://medisom.nl
+0000.005 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.9 WP: 4.3 PHP: 5.6.12 (Linux www61.totaalholding.nl 2.6.32-604.16.2.lve1.3.54.el6.x86_64 #1 SMP Mon Jul 27 11:32:29 EDT 2015 x86_64) MySQL: 5.6.23 Server: Apache/2.4.16 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7.9M | 9.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.006 () Free space on disk containing Updraft's temporary directory: 1191759.6 Mb
+0000.006 () Restore job started. Entities to restore: others
+0000.037 () Entity: others
+0000.037 () restore_backup(backup_file=backup_2015-09-08-1854_medisom_fd528e2efec1-others.zip, type=others, info=a:2:{s:4:"path";s:48:"/home/eduknl1q/public_html/medisom.nl/wp-content";s:11:"description";s:6:"Overig";}, last_one=1)
+0000.037 () Backup uitpakken... (backup_2015-09-08-1854_medisom_fd528e2efec1-others.zip, 0.5 Mb)
+0000.056 () PHP event: code E_WARNING: copy(): The first argument to copy() function cannot be a directory (line 231, wp-admin/includes/class-wp-filesystem-direct.php)
+0000.056 () Rommel opruimen...
+0000.057 () Error: De werk-directory kon niet verwijderd worden na het terugzetten. (/home/eduknl1q/public_html/medisom.nl/wp-content/upgrade/f0695369)
+0000.085 () Restore successful!
+0000.086 () Restore successful
